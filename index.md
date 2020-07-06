@@ -2,7 +2,7 @@
 layout: cv
 title: Mauricio Meléndez
 ---
-# Isaac Newton
+# {{page.title}}
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
