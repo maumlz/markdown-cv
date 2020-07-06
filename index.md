@@ -9,83 +9,37 @@ Matemáticas Aplicadas y Computación, FES Actlán, UNAM.
 {% for item in site.data.contact %}
   <a href="{{ item.link }}">{{ item.name }}</a> |
 {% endfor %}
-<a href="mauricio_esteban@live.com">mauricio_esteban@live.com</a>
-| <a href="maumlz.github.io">Mi GitHub</a>
-</div>
-
 
 ## Actualmente
 
 Terminando materias.
 
-### Specialized in
+### Conocimiento en
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+Cálculo, estadística, programación y habilidades en la identificación y resolución de problemas en diferentes ámbitos.
 
 
 
-## Awards
+### Intereses y Hobbies
 
-`2012`
-President, *Royal Society*, London, UK
+Mis intereses están en el desarrollo de aplicaciones en las nuevas tecnologías, en el desarrollo de videojuegos, además de la aplicacion de la estadistical.
 
-Associate, *French Academy of Science*, Paris, France
+Entre mis hobbies se encuentran la música, especificamente el hip-hop, el baquetbol y los videojuegos.
 
+## Educación
 
+`2016-Actualmente`
+__Facultad de Estudios Superiores Acatlán.__
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas.
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+### Software
 
 
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+## Experiencia
+`Ago 2018 - Actualmente`
+__Sistema Hera, Inegniería de Software__ 
+Proyecto de la cátedra de Ingeniería de software, en el que se desarrolló un sistema para la gestión de calificaciones de un bachillerato técnico.
+Fui el encargado del diseño e implementación de la base de datos y el principal desarrollador back-end del sistema.
+La dinámica consistió en la formación de cinco equipos. Cada uno presentó su propuesta de la solución, se estipuló que el sistema que más se adecuara a los requerimientos tendría la oportunidad de implementarlo.
 
 <!-- ### Footer
 
