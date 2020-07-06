@@ -69,13 +69,13 @@ p {
 	width: 55%;
 }
 
-code {
+/* code {
 	font: normal normal;
 	font-size: 90%;
-	/*line-height: 1em;*/
+	line-height: 1em;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	color: #aaa;
-}
+} */
 
 p code {
 	position: absolute;
