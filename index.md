@@ -36,7 +36,7 @@ __Facultad de Estudios Superiores Acatlán.__
 trabajo en equipo, bla bla
 
 ### Software y lenguajes de programación
-C, C++, C#, R, Ruby, PHP, HTML5, CSS3, Javascript, MySQL, Markdown, LaTeX, Unity, XAMPP.
+C, C++, `C#`, R, Ruby, PHP, HTML5, CSS3, Javascript, MySQL, Markdown, LaTeX, Unity, XAMPP.
 
 
 ## Experiencia
