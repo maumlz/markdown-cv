@@ -36,7 +36,7 @@ __Facultad de Estudios Superiores Acatlán.__
 trabajo en equipo, bla bla
 
 ### Software y lenguajes de programación
-C, C++, `C#`, R, Ruby, PHP, HTML5, CSS3, Javascript, MySQL, Markdown, LaTeX, Unity, XAMPP.
+### C, `C++`, C#, R, Ruby, PHP, HTML5, CSS3, Javascript, MySQL, Markdown, LaTeX, Unity, XAMPP.
 
 
 ## Experiencia
@@ -53,7 +53,8 @@ La dinámica consistió en la formación de cinco equipos. Cada uno presentó su
 `Feb 2019-en curso`
 __Ambar, Co-fundador, Programador.__
 Proyecto personal para el desarrollo de videojuegos.
-Contamos con dos proyectos finalizados,
+Contamos con dos proyectos finalizados.
+- Caro: Desarrollado para el 2do Concurso de desarrollo de Video Juegos en la Semana de Matemáticas Aplicadas y Computación,
 
 
 ## Otros
