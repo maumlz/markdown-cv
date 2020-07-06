@@ -13,7 +13,7 @@ Matemáticas Aplicadas y Computación, FES Actlán, UNAM.
 
 ## Actualmente
 
-Terminando materias.
+
 
 ### Conocimiento en
 
@@ -31,8 +31,12 @@ Entre mis hobbies se encuentran la música, especificamente el hip-hop, el baque
 `2016-Actualmente`
 __Facultad de Estudios Superiores Acatlán.__
 
-### Software
-assa
+## Habilidades
+### Soft skills
+trabajo en equipo, bla bla
+
+### Software y lenguajes de programación
+C, C++, C#, R, Ruby, PHP, HTML5, CSS3, Javascript, MySQL, Markdown, LaTeX, Unity, XAMPP.
 
 
 ## Experiencia
@@ -40,8 +44,22 @@ assa
 `Ago 2018-Actualmente`
 __Sistema Hera, Inegniería de Software.__
 Proyecto de la cátedra de Ingeniería de software, en el que se desarrolló un sistema para la gestión de calificaciones de un bachillerato técnico.
+
 Fui el encargado del diseño e implementación de la base de datos y el principal desarrollador back-end del sistema.
+
 La dinámica consistió en la formación de cinco equipos. Cada uno presentó su propuesta de la solución, se estipuló que el sistema que más se adecuara a los requerimientos tendría la oportunidad de implementarlo.
+
+
+`Feb 2019-en curso`
+__Ambar, Co-fundador, Programador.__
+Proyecto personal para el desarrollo de videojuegos.
+Contamos con dos proyectos finalizados,
+
+
+## Otros
+`Ago 2018-Actualmente`
+__El Podcast de Moi y Mau, Co-locutor, editor.__
+Podcast enfocado hacia el debate y reseña sobre la música hip-hop. Contamos con 27 episodios de poco mas de una hora donde tocamos diversos temas además de los topicos musicales.
 
 <!-- ### Footer
 
