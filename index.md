@@ -33,6 +33,7 @@ __Facultad de Estudios Superiores Acatlán.__
 ### Software
 assa
 
+
 ## Experiencia
 
 `Ago 2018-Actualmente`
