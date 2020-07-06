@@ -2,18 +2,23 @@
 layout: cv
 title: Mauricio Meléndez
 ---
-# {{page.title}}
-Physicist, Mathematician, Cambridge professor.
+# {{ page.title }}
+Matemáticas Aplicadas y Computación, FES Actlán, UNAM.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+{% for item in site.data.contact %}
+  <a href="{{ item.link }}">
+    {{ item.name }}
+  </a>
+{% endfor %}
+<a href="mauricio_esteban@live.com">mauricio_esteban@live.com</a>
+| <a href="maumlz.github.io">Mi GitHub</a>
 </div>
 
 
-## Currently
+## Actualmente
 
-Standing on the shoulders of giants
+Terminando materias.
 
 ### Specialized in
 
