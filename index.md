@@ -34,7 +34,8 @@ __Facultad de Estudios Superiores Acatlán.__
 assa
 
 ## Experiencia
-`Ago 2018 - Actualmente`
+
+`Ago 2018-Actualmente`
 __Sistema Hera, Inegniería de Software.__
 Proyecto de la cátedra de Ingeniería de software, en el que se desarrolló un sistema para la gestión de calificaciones de un bachillerato técnico.
 Fui el encargado del diseño e implementación de la base de datos y el principal desarrollador back-end del sistema.
