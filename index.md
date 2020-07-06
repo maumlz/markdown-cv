@@ -9,6 +9,7 @@ Matemáticas Aplicadas y Computación, FES Actlán, UNAM.
 {% for item in site.data.contact %}
   <a href="{{ item.link }}">{{ item.name }}</a> |
 {% endfor %}
+</div>
 
 ## Actualmente
 
