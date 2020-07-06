@@ -54,7 +54,8 @@ La dinámica consistió en la formación de cinco equipos. Cada uno presentó su
 __Ambar, Co-fundador, Programador.__
 Proyecto personal para el desarrollo de videojuegos.
 Contamos con dos proyectos  finalizados.
-  > Caro: Desarrollado para el 2do Concurso de desarrollo de Video Juegos en la Semana de Matemáticas Aplicadas y Computación,
+  > **Caro**: Desarrollado para el **2do Concurso de desarrollo de Video Juegos en la Semana de Matemáticas Aplicadas y Computación**. Enfocado a PC, cuenta con una historia corta a través de 5 niveles cada uno siendo un minijuego.
+  > **Save the Aliens**: Desarrollado en el Taller Mermelada Lab impartido en el [Centro de Cultura Digital](https://centroculturadigital.mx/) de la Ciudad de México. Enfocado a plataformas mobiles.
 
 
 ## Otros
