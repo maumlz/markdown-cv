@@ -69,13 +69,13 @@ p {
 	width: 55%;
 }
 
-/* code {
+code {
 	font: normal normal;
 	font-size: 90%;
-	line-height: 1em;
+	/*line-height: 1em;*/
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	color: #aaa;
-} */
+}
 
 p code {
 	position: absolute;
@@ -111,6 +111,15 @@ li ul {
 	left: 0;
 	width: 100%;
 	margin-top: 0.25em;
+}
+
+li code{
+	padding: 2px 4px;
+  font-size: 90%;
+  color: #c7254e;
+  white-space: nowrap;
+  background-color: #f9f2f4;
+  border-radius: 4px;
 }
 
 h1,h2,h3,h4 {
