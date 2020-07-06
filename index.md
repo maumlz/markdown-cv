@@ -54,7 +54,7 @@ La dinámica consistió en la formación de cinco equipos. Cada uno presentó su
 __Ambar, Co-fundador, Programador.__
 Proyecto personal para el desarrollo de videojuegos.
 Contamos con dos proyectos  finalizados.
-Caro: Desarrollado para el 2do Concurso de desarrollo de Video Juegos en la Semana de Matemáticas Aplicadas y Computación,
+<li>Caro: Desarrollado para el 2do Concurso de desarrollo de Video Juegos en la Semana de Matemáticas Aplicadas y Computación,</li>
 
 
 ## Otros
