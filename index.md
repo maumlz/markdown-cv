@@ -67,7 +67,9 @@ Podcast enfocado hacia el debate y reseña sobre la música hip-hop. Contamos co
 
 ## Idiomas
   > Español - Lengua Nativa
+
   > Ingles - Avanzado/Intermedio
+
   > Alemán - Básico/Principiante
 
 <!-- ### Footer
