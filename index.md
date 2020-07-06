@@ -7,9 +7,7 @@ Matemáticas Aplicadas y Computación, FES Actlán, UNAM.
 
 <div id="webaddress">
 {% for item in site.data.contact %}
-  <a href="{{ item.link }}">
-    {{ item.name }}
-  </a>
+  <a href="{{ item.link }}">{{ item.name }}</a> |
 {% endfor %}
 <a href="mauricio_esteban@live.com">mauricio_esteban@live.com</a>
 | <a href="maumlz.github.io">Mi GitHub</a>
