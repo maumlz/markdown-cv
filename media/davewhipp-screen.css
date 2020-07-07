@@ -72,9 +72,9 @@ code {
 }
 
 p code {
-	position: absolute;
+	position: relative;
 	text-align: right;
-	right: -20%;
+  left: 103%
 }
 
 
@@ -185,7 +185,7 @@ strong {
 	display: none;
 }
 
-* {
+ {
     border-style: inset;
     border-bottom-color: red;
     border-left-color: blue;
