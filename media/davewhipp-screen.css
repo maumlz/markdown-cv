@@ -135,14 +135,16 @@ h1 {
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
-	left: 25%;
-	width: max-content;
+	width: auto;
+	text-indent: 16.6%
 }
 
 h1+p {
 	/*subtitle*/
 	font-style: italic;
 	font-size: 110%;
+	width: auto;
+	text-indent: 16.6%;
 }
 
 h2 {
@@ -209,7 +211,10 @@ strong {
     border-width: thin;
 }
 
-
+div{
+	width: auto;
+	text-align: justify;
+}
 /*
 @media only screen and (max-width: 480px) {
 	make one column somehow...
