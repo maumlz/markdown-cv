@@ -127,6 +127,9 @@ h1+p {
 	/*subtitle*/
 	font-style: italic;
 	font-size: 110%;
+	position: relative;
+	text-align: left;
+	left: 25%;
 }
 
 h2 {
