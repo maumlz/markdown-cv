@@ -195,7 +195,7 @@ div.code-aparte{
 	width: 55%;
 }
 
-div code{
+div.code-aparte{
 	padding: 2px 4px;
   font-size: 90%;
   color: #c7254e;
