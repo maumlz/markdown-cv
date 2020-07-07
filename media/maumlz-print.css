@@ -212,3 +212,8 @@ code.language-plaintext.highlighter-rouge{
 	left: 102.5%;
 	top: 10%;
 }
+
+.otro{
+	position: relative;
+	bottom: 40px;
+}
