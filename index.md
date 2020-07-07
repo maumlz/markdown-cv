@@ -12,9 +12,11 @@ Desarrollador de software.
 </div>
 
 ## Objetivos
+
 Crecer como desarrollador de aplicaciones en las nuevas tecnologías, en el desarrollo de videojuegos, además de inteses en las areas de  redes, seguridad de la información y ciberseguridad.
 
 ### Conocimiento en
+
 Cálculo, estadística, programación, bases de datos y habilidades en la identificación y resolución de problemas en diferentes ámbitos.
 
 ## Educación

@@ -134,7 +134,7 @@ h3 {
 	font-size: .9em;
 	line-height: 2em;
 	position: relative;
-	top: 2.1em;
+	top: 2.2em;
 	text-align: right;
 	width: 15%;
 }
@@ -169,8 +169,7 @@ em {
 
 strong {
 	font-weight: bold;
-	position: relative;
-	right: 16%;
+
 }
 
 #address {
