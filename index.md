@@ -27,12 +27,13 @@ Mis intereses están en el desarrollo de aplicaciones en las nuevas tecnologías
 
 Entre mis hobbies se encuentran la música, especificamente el hip-hop, el baquetbol y los videojuegos.
 
+***
 ## Educación
 
 `2016-Actualmente`
 __Facultad de Estudios Superiores Acatlán, UNAM.__
 Lic. Matemáticas Aplicadas y Computación
-
+***
 ## Habilidades
 ### Soft skills
 trabajo en equipo, bla bla
@@ -40,7 +41,7 @@ trabajo en equipo, bla bla
 ### Software y lenguajes de programación
 - `C`, `C++`, `C#`, `R`, `Ruby`, `PHP`, `HTML5`, `CSS3`, `Javascript`, `XML`, `MySQL`, `Markdown`, `LaTeX`, `Unity`, `XAMPP`, `Microsoft Office`, `Workbench`, `PostgresSQL`, `GitHub`, `Git`, `P5.js`, `MPI`, `OpenMP`, `Pthreads`, `Cisco Packet Tracer`.
 
-
+***
 ## Experiencia
 
 `Ago 2018-Actualmente`
@@ -60,7 +61,7 @@ Contamos con dos proyectos  finalizados.
 
   > **Save the Aliens**: Desarrollado en el Taller Mermelada Lab impartido en el [Centro de Cultura Digital](https://centroculturadigital.mx/) de la Ciudad de México. Enfocado a plataformas mobiles.
 
-
+***
 ## Otros
 `Ago 2018-Actualmente`
 __El Podcast de Moi y Mau, Co-locutor, editor.__
