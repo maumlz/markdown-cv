@@ -203,8 +203,7 @@ p code{
 	top: 55px;
 }
 
-.language-plaintext.highlighter-rouge{
-	border: thin solid black;
-  font-size: 70%;
+code.language-plaintext.highlighter-rouge{
+	font-size: 60%;
 	color: #aaa;
 }
