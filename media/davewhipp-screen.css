@@ -68,7 +68,7 @@ p {
 	position: relative;
 	margin-bottom: 0.7em;
 	margin-right: 0;
-	width: 55%;
+	width: 66.6%;
 }
 
 code {
@@ -142,8 +142,6 @@ h1+p {
 	/*subtitle*/
 	font-style: italic;
 	font-size: 110%;
-	width: auto;
-	text-indent: 16.6%;
 }
 
 h2 {
