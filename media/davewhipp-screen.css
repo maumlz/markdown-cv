@@ -73,7 +73,7 @@ p {
 
 code {
 	font: normal normal normal normal 90% normal Monaco,Menlo,monospace,sans-serif;
-	font-size: 90%;
+	/* font-size: 90%; */
 	/*line-height: 1em;*/
 	/* font-family: Monaco,Menlo,monospace,sans-serif; */
 	color: #aaa;
