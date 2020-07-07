@@ -180,3 +180,25 @@ strong {
 	display: none;
 	visibility: hidden;
 }
+
+.code-aparte{
+	position: static;
+	padding: 2px 4px;
+  font-size: 90%;
+  color: #c7254e;
+  white-space: nowrap;
+  background-color: #f9f2f4;
+  border-radius: 4px;
+}
+
+
+p code{
+	text-align: left;
+	left: 110%;
+	width: 25%;
+}
+
+#skills{
+	position: relative;
+	top: 55px;
+}
