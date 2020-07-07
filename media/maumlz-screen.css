@@ -92,7 +92,7 @@ li ul {
 	position: relative;
 }
 
-li code{
+#code-aparte{
 	padding: 2px 4px;
   font-size: 90%;
   color: #c7254e;
