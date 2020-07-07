@@ -195,11 +195,15 @@ strong {
 
 p code{
 	text-align: left;
-	left: 90%;
+	left: 100%;
 	width: 25%;
 }
 
 #skills{
 	position: relative;
 	top: 55px;
+}
+
+.language-plaintext.highlighter-rouge{
+
 }
