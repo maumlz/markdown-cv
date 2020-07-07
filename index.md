@@ -62,8 +62,7 @@ Participe como staff voluntario en el primer evento realcionado con el desarroll
 **El Podcast de Moi y Mau**, *Co-locutor, editor*.<br/>
 Podcast enfocado hacia el debate y reseña sobre la música hip-hop. Contamos con 27 episodios de poco mas de una hora donde tocamos diversos temas además de los topicos musicales.
 
-__Hobbies.__
-
+**Hobbies**.<br/>
 Entre mis hobbies se encuentran la música, especificamente el hip-hop, el baquetbol y los videojuegos.
 
 
