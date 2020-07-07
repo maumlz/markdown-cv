@@ -201,7 +201,12 @@ strong {
 }
 
 * {
-	border: thin solid black;
+    border-style: inset;
+    border-bottom-color: red;
+    border-left-color: blue;
+    border-right-color: green;
+    border-top-color: yellow;
+    border-width: thin;
 }
 
 
