@@ -125,7 +125,7 @@ h2 {
 	color: #bc412b;
 	margin-top: 3em;
 	position: relative;
-	top: 1.5em;
+	top: ;
 	text-align: right;
 	width: 15%;
 }
@@ -134,7 +134,7 @@ h3 {
 	font-size: .9em;
 	line-height: 2em;
 	position: relative;
-	top: 2.2em;
+	top: 0.2em;
 	text-align: right;
 	width: 15%;
 }
@@ -183,12 +183,12 @@ div{
 
 
  *{
-    border-style: inset;
+    /*border-style: inset;
     border-bottom-color: red;
     border-left-color: blue;
     border-right-color: green;
     border-top-color: yellow;
-    border-width: thin;
+    border-width: thin;*/
 }
 /*
 @media only screen and (max-width: 480px) {
