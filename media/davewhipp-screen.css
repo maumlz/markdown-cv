@@ -135,6 +135,7 @@ h1 {
 	line-height: 1em;
 	position: relative;
 	left: 25%;
+	width: max-content;
 }
 
 h1+p {
