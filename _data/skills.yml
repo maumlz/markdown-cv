@@ -1,25 +1,25 @@
-- name: `C`
-- name: `C++`
-- name: `C#`
-- name: `R`
-- name: `Ruby`
-- name: `PHP`
-- name: `HTML5`
-- name: `CSS3`
-- name: `Javascript`
-- name: `XML`
-- name: `MySQL`
-- name: `Markdown`
-- name: `LaTeX`
-- name: `Unity`
-- name: `XAMPP`
-- name: `Microsoft Office`
-- name: `Workbench`
-- name: `PostgresSQL`
-- name: `GitHub`
-- name: `Git`
-- name: `P5.js`
-- name: `MPI`
-- name: `OpenMP`
-- name: `Pthreads`
-- name: `Cisco Packet Tracer`
+- name: C
+- name: C++
+- name: C#
+- name: R
+- name: Ruby
+- name: PHP
+- name: HTML5
+- name: CSS3
+- name: Javascript
+- name: XML
+- name: MySQL
+- name: Markdown
+- name: LaTeX
+- name: Unity
+- name: XAMPP
+- name: Microsoft Office
+- name: Workbench
+- name: PostgresSQL
+- name: GitHub
+- name: Git
+- name: P5.js
+- name: MPI
+- name: OpenMP
+- name: Pthreads
+- name: Cisco Packet Tracer 
