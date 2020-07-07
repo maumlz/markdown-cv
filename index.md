@@ -11,21 +11,11 @@ Desarrollador de software.
 {% endfor %}
 </div>
 
-
-## Actualmente
-Me encuetro en los ultimos semestres de mi licenciatura.
-
+## Objetivos
+Crecer como desarrollador de aplicaciones en las nuevas tecnologías, en el desarrollo de videojuegos, además de inteses en las areas de  redes, seguridad de la información y ciberseguridad.
 
 ### Conocimiento en
-
-Cálculo, estadística, programación y habilidades en la identificación y resolución de problemas en diferentes ámbitos.
-
-
-### Intereses y Hobbies
-
-Mis intereses están en el desarrollo de aplicaciones en las nuevas tecnologías, en el desarrollo de videojuegos, además de la aplicacion de la estadistical.
-
-Entre mis hobbies se encuentran la música, especificamente el hip-hop, el baquetbol y los videojuegos.
+Cálculo, estadística, programación, bases de datos y habilidades en la identificación y resolución de problemas en diferentes ámbitos.
 
 ## Educación
 
@@ -35,7 +25,7 @@ Lic. Matemáticas Aplicadas y Computación
 
 ## Habilidades
 ### Soft skills
-trabajo en equipo, bla bla
+Trabajo en equipo, autodidacta, confiado, entusiasta, amigable.
 
 ### Software y lenguajes de programación
 - `C`, `C++`, `C#`, `R`, `Ruby`, `PHP`, `HTML5`, `CSS3`, `Javascript`, `XML`, `MySQL`, `Markdown`, `LaTeX`, `Unity`, `XAMPP`, `Microsoft Office`, `Workbench`, `PostgresSQL`, `GitHub`, `Git`, `P5.js`, `MPI`, `OpenMP`, `Pthreads`, `Cisco Packet Tracer`.
@@ -67,6 +57,10 @@ Podcast enfocado hacia el debate y reseña sobre la música hip-hop. Contamos co
 `Noviembre 2019`
 __Game Summit.__
 Participe como staff voluntario en el primer evento realcionado con el desarrollo de videojuegos en paises de habla hispana. El evento fue organizado por estudios españoles y mexicanos, además de contar con el apoyo de Unity Latinoamerica y Unreal Engine.
+
+__Hobbies.__
+Entre mis hobbies se encuentran la música, especificamente el hip-hop, el baquetbol y los videojuegos.
+
 
 ## Idiomas
   > Español - Lengua Nativa
