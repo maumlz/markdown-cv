@@ -198,8 +198,7 @@ strong {
 }
 
 * {
-	border-style: solid;
-	border-width: thin;
+	border: thin solid black;
 }
 
 
