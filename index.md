@@ -7,7 +7,7 @@ Desarrollador de software.
 
 <div id="webaddress">
 {% for item in site.data.contact %}
-  <a href="{{ item.link }}"><i class="{{ item.class }} "></i>{{ item.name }}</a> |
+  <a href="{{ item.link }}"><i class="{{ item.class }}"> </i>{{ item.name }}</a> |
 {% endfor %}
 </div>
 
