@@ -22,14 +22,12 @@ Cálculo, estadística, programación, bases de datos y habilidades en la identi
 ## Educación
 
 `2016-Actualmente`
-
-**Facultad de Estudios Superiores Acatlán, UNAM.**
-
-Lic. Matemáticas Aplicadas y Computación
+**Lic. Matemáticas Aplicadas y Computación**, *Facultad de Estudios Superiores Acatlán, UNAM.*
 
 ## Habilidades
+
 ### Soft skills
-Trabajo en equipo, autodidacta, confiado, entusiasta, amigable.
+- Trabajo en equipo, autodidacta, confiado, entusiasta, amigable.
 
 ### Software y lenguajes de programación
 - `C`, `C++`, `C#`, `R`, `Ruby`, `PHP`, `HTML5`, `CSS3`, `Javascript`, `XML`, `MySQL`, `Markdown`, `LaTeX`, `Unity`, `XAMPP`, `Microsoft Office`, `Workbench`, `PostgresSQL`, `GitHub`, `Git`, `P5.js`, `MPI`, `OpenMP`, `Pthreads`, `Cisco Packet Tracer`.
@@ -37,9 +35,7 @@ Trabajo en equipo, autodidacta, confiado, entusiasta, amigable.
 ## Experiencia
 
 `Ago 2018-Actualmente`
-
-**Sistema Hera, Inegniería de Software.**
-
+**Sistema Hera**, *Inegniería de Software*.<br/>
 Proyecto de la cátedra de Ingeniería de software, en el que se desarrolló un sistema para la gestión de calificaciones de un bachillerato técnico.
 
 Fui el encargado del diseño e implementación de la base de datos y el principal desarrollador back-end del sistema.
@@ -48,27 +44,22 @@ La dinámica consistió en la formación de cinco equipos. Cada uno presentó su
 
 
 `Feb 2019-en curso`
-
-__Ambar, Co-fundador, Programador.__
-
+**Othala**, *Co-fundador, Programador*.<br/>
 Proyecto personal para el desarrollo de videojuegos.
 Contamos con dos proyectos  finalizados.
 
-  > **Caro**: Desarrollado para el **2do Concurso de desarrollo de Video Juegos en la Semana de Matemáticas Aplicadas y Computación**. Enfocado a PC, cuenta con una historia corta a través de 5 niveles cada uno siendo un minijuego.
+  > **Caro**: Desarrollado para el *2do Concurso de desarrollo de Video Juegos en la Semana de Matemáticas Aplicadas y Computación*. Enfocado a PC, cuenta con una historia corta a través de 5 niveles cada uno siendo un minijuego.
 
-  > **Save the Aliens**: Desarrollado en el Taller Mermelada Lab impartido en el [Centro de Cultura Digital](https://centroculturadigital.mx/) de la Ciudad de México. Enfocado a plataformas mobiles.
+  > **Save the Aliens**: Desarrollado en el *Taller Mermelada Lab* impartido en el [Centro de Cultura Digital](https://centroculturadigital.mx/) de la Ciudad de México. Enfocado a plataformas mobiles.
 
 ## Otros
 `Noviembre 2019`
 
-__Game Summit.__
-
+**Game Summit**, *Centro de Cultura Española*, CDMX.<br/>
 Participe como staff voluntario en el primer evento realcionado con el desarrollo de videojuegos en paises de habla hispana. El evento fue organizado por estudios españoles y mexicanos, además de contar con el apoyo de Unity Latinoamerica y Unreal Engine.
 
 `Ago 2018-Actualmente`
-
-__El Podcast de Moi y Mau, Co-locutor, editor.__
-
+**El Podcast de Moi y Mau**, *Co-locutor, editor*.<br/>
 Podcast enfocado hacia el debate y reseña sobre la música hip-hop. Contamos con 27 episodios de poco mas de una hora donde tocamos diversos temas además de los topicos musicales.
 
 __Hobbies.__
