@@ -7,6 +7,6 @@
 - name: GitHub
   link: https://github.com/maumlz/
   class: fab fa-github-square
-- name: maumlz.github.io
-  link: https://maumlz.github.io
-  class: fas fa-home
+# - name: maumlz.github.io
+#   link: https://maumlz.github.io
+#   class: fas fa-home
