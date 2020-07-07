@@ -20,6 +20,7 @@ Cálculo, estadística, programación, bases de datos y habilidades en la identi
 ## Educación
 
 `2016-Actualmente`
+
 **Facultad de Estudios Superiores Acatlán, UNAM.**
 
 Lic. Matemáticas Aplicadas y Computación
@@ -35,7 +36,7 @@ Trabajo en equipo, autodidacta, confiado, entusiasta, amigable.
 
 `Ago 2018-Actualmente`
 
-__Sistema Hera, Inegniería de Software.__
+**Sistema Hera, Inegniería de Software.**
 
 Proyecto de la cátedra de Ingeniería de software, en el que se desarrolló un sistema para la gestión de calificaciones de un bachillerato técnico.
 
