@@ -15,7 +15,7 @@ Desarrollador de software.
 
 Crecer como desarrollador de software en las nuevas tecnologías con interés en las áreas de redes, seguridad de la información, ciberseguridad y desarrollo de videojuegos.
 
-### Conocimiento en
+## Conocimiento en
 
 Cálculo, estadística, programación, bases de datos y habilidades en la identificación y resolución de problemas en diferentes ámbitos.
 
