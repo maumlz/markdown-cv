@@ -133,7 +133,7 @@ h2 {
 	color: #bc412b;
 	margin-top: 3em;
 	position: relative;
-	top: 1.4em;
+	top: 1.6em;
 	text-align: right;
 	width: 20%;
 }
@@ -194,10 +194,10 @@ strong {
 }
 
 
-p code, p,h2{
-	border-style:solid;
-	border-color: black;
-	border-width: thin;
+p code{
+	text-align: left;
+	left: 110%;
+	width: 25%;
 }
 
 /*
