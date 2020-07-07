@@ -13,7 +13,7 @@ Desarrollador de software.
 
 ## Objetivos
 
-Crecer como desarrollador de software en las nuevas tecnologías, además de interés en las áreas de redes, seguridad de la información, ciberseguridad y desarrollo de videojuegos.
+Crecer como desarrollador de software en las nuevas tecnologías con interés en las áreas de redes, seguridad de la información, ciberseguridad y desarrollo de videojuegos.
 
 ### Conocimiento en
 

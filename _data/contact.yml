@@ -1,12 +1,12 @@
 - name: mauricio_esteban@live.com
-  link: mauricio_esteban@live.com
+  link: mailto:mauricio_esteban@live.com
   class: fas fa-envelope
 - name: linkedin
-  link: linkedin.com/in/mauricio-melendez-246360151
+  link: https://www.linkedin.com/in/mauricio-melendez-246360151/
   class: fab fa-linkedin
 - name: GitHub
-  link: github.com/maumlz
+  link: https://github.com/maumlz/
   class: fab fa-github-square
 - name: maumlz.github.io
-  link: maumlz.github.io
+  link: https://maumlz.github.io
   class: fas fa-home
