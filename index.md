@@ -3,16 +3,16 @@ layout: cv
 title: Mauricio Meléndez
 ---
 # {{page.title}}
-Matemáticas Aplicadas y Computación, FES Actlán, UNAM.
+Desarrollador de software.
 
 <div id="webaddress">
 {% for item in site.data.contact %}
-  <a href="{{ item.link }}">{{ item.name }}</a> |
+  <a href="{{ item.link }}"><i class="fas fa-home"></i>{{ item.name }}</a> |
 {% endfor %}
 </div>
 
 ## Actualmente
-
+Me encuetro en los ultimos semestres de mi licenciatura.
 
 
 ### Conocimiento en
@@ -29,7 +29,8 @@ Entre mis hobbies se encuentran la música, especificamente el hip-hop, el baque
 ## Educación
 
 `2016-Actualmente`
-__Facultad de Estudios Superiores Acatlán.__
+__Facultad de Estudios Superiores Acatlán, UNAM.__
+Lic. Matemáticas Aplicadas y Computación
 
 ## Habilidades
 ### Soft skills
@@ -64,6 +65,9 @@ Contamos con dos proyectos  finalizados.
 __El Podcast de Moi y Mau, Co-locutor, editor.__
 Podcast enfocado hacia el debate y reseña sobre la música hip-hop. Contamos con 27 episodios de poco mas de una hora donde tocamos diversos temas además de los topicos musicales.
 
+`Noviembre 2019`
+__Game Summit.__
+Participe como staff voluntario en el primer evento realcionado con el desarrollo de videojuegos en paises de habla hispana. El evento fue organizado por estudios españoles y mexicanos, además de contar con el apoyo de Unity Latinoamerica y Unreal Engine.
 
 ## Idiomas
   > Español - Lengua Nativa
