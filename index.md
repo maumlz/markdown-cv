@@ -50,13 +50,13 @@ Contamos con dos proyectos  finalizados.
   > **Save the Aliens**: Desarrollado en el Taller Mermelada Lab impartido en el [Centro de Cultura Digital](https://centroculturadigital.mx/) de la Ciudad de México. Enfocado a plataformas mobiles.
 
 ## Otros
-`Ago 2018-Actualmente`
-__El Podcast de Moi y Mau, Co-locutor, editor.__
-Podcast enfocado hacia el debate y reseña sobre la música hip-hop. Contamos con 27 episodios de poco mas de una hora donde tocamos diversos temas además de los topicos musicales.
-
 `Noviembre 2019`
 __Game Summit.__
 Participe como staff voluntario en el primer evento realcionado con el desarrollo de videojuegos en paises de habla hispana. El evento fue organizado por estudios españoles y mexicanos, además de contar con el apoyo de Unity Latinoamerica y Unreal Engine.
+
+`Ago 2018-Actualmente`
+__El Podcast de Moi y Mau, Co-locutor, editor.__
+Podcast enfocado hacia el debate y reseña sobre la música hip-hop. Contamos con 27 episodios de poco mas de una hora donde tocamos diversos temas además de los topicos musicales.
 
 __Hobbies.__
 Entre mis hobbies se encuentran la música, especificamente el hip-hop, el baquetbol y los videojuegos.
