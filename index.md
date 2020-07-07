@@ -30,7 +30,7 @@ Cálculo, estadística, programación, bases de datos y habilidades en la identi
 - Trabajo en equipo, autodidacta, confiado, entusiasta, amigable.
 
 ### Software y lenguajes de programación
-{% for item in site.data.skills %}<code class="code-aparte">{{ item.name }}</code>, {% endfor %}
+{% for item in site.data.skills %}<code class="code-aparte">{{ item.name }}</code>{% endfor %}
 ## Experiencia
 
 `Ago 2018-Actualmente`
