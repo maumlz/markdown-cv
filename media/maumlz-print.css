@@ -60,7 +60,7 @@ p {
 	left: 25%;
 	margin-bottom: 0.2em;
 	margin-right: 0;
-	width: 60%;
+	width: 55%;
 	text-align: justify;
 
 }
@@ -208,4 +208,7 @@ p code{
 code.language-plaintext.highlighter-rouge{
 	font-size: 60%;
 	color: #aaa;
+  position: absolute;
+	left: 102.5%;
+	top: 10%;
 }
