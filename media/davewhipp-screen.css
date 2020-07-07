@@ -193,6 +193,13 @@ strong {
   border-radius: 4px;
 }
 
+
+p code, p,h2{
+	border-style:solid;
+	border-color: black;
+	border-width: thin;
+}
+
 /*
 @media only screen and (max-width: 480px) {
 	make one column somehow...
