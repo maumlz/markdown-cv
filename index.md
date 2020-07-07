@@ -34,6 +34,7 @@ Trabajo en equipo, autodidacta, confiado, entusiasta, amigable.
 ## Experiencia
 
 `Ago 2018-Actualmente`
+
 __Sistema Hera, Inegniería de Software.__
 
 Proyecto de la cátedra de Ingeniería de software, en el que se desarrolló un sistema para la gestión de calificaciones de un bachillerato técnico.
@@ -44,6 +45,7 @@ La dinámica consistió en la formación de cinco equipos. Cada uno presentó su
 
 
 `Feb 2019-en curso`
+
 __Ambar, Co-fundador, Programador.__
 
 Proyecto personal para el desarrollo de videojuegos.
@@ -55,11 +57,13 @@ Contamos con dos proyectos  finalizados.
 
 ## Otros
 `Noviembre 2019`
+
 __Game Summit.__
 
 Participe como staff voluntario en el primer evento realcionado con el desarrollo de videojuegos en paises de habla hispana. El evento fue organizado por estudios españoles y mexicanos, además de contar con el apoyo de Unity Latinoamerica y Unreal Engine.
 
 `Ago 2018-Actualmente`
+
 __El Podcast de Moi y Mau, Co-locutor, editor.__
 
 Podcast enfocado hacia el debate y reseña sobre la música hip-hop. Contamos con 27 episodios de poco mas de una hora donde tocamos diversos temas además de los topicos musicales.
