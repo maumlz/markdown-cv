@@ -31,6 +31,7 @@ Trabajo en equipo, autodidacta, confiado, entusiasta, amigable.
 
 ### Software y lenguajes de programación {#skills}
 {% for item in site.data.skills %}<code class="code-aparte">{{ item.name }}</code> {% endfor %}
+
 ## Experiencia
 
 `Ago 2018-Actualmente`
