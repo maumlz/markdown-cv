@@ -169,8 +169,7 @@ a:hover {
 }
 
 em {
-	font-style: normal;
-	color: #2d4e5e
+	font-style: italic;
 }
 
 strong {
@@ -205,5 +204,7 @@ p code{
 }
 
 .language-plaintext.highlighter-rouge{
-
+	border: thin solid black;
+  font-size: 70%;
+	color: #aaa;
 }
