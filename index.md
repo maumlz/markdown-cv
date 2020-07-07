@@ -11,6 +11,7 @@ Desarrollador de software.
 {% endfor %}
 </div>
 
+
 ## Actualmente
 Me encuetro en los ultimos semestres de mi licenciatura.
 
