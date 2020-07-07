@@ -57,9 +57,9 @@ table {
 
 
 body {
-	font: normal normal;
-	font-size: 100%;
-	line-height: 1.5em;
+	font: normal normal 400 100% 1.5em;
+	/* font-size: 100%;
+	line-height: 1.5em; */
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Avenir,Verdana,sans-serif;
 	margin-top: 1em;
