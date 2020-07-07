@@ -29,7 +29,7 @@ Cálculo, estadística, programación, bases de datos y habilidades en la identi
 ### Soft skills
 - Trabajo en equipo, autodidacta, confiado, entusiasta, amigable.
 
-### Software y lenguajes de programación
+### Software y lenguajes de programación {#yo}
 {% for item in site.data.skills %}<code class="code-aparte">{{ item.name }}</code> {% endfor %}
 ## Experiencia
 
