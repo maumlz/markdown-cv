@@ -126,7 +126,7 @@ li code{
 h1,h2,h3,h4 {
 	font-weight: 400;
 	font-family: Avenir,Cousine,Verdana,sans-serif;
-	width: 80%;
+	width: 16.6%;
 }
 
 h1 {
@@ -177,11 +177,11 @@ a:hover {
 #webaddress {
 	margin-top: 1em;
 	position: relative;
-	left: 25%;
 	color: #bc412b;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 100%;
-	width: max-content;
+	width: auto;
+	text-indent: 16.6%
 }
 
 #webaddress a {
