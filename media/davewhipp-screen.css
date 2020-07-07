@@ -3,10 +3,7 @@
    License: none (public domain)
 */
 
-*{
-	border-style: solid;
-	border-width: thin;
-}
+
 
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -200,6 +197,10 @@ strong {
 	display: none;
 }
 
+*{
+	border-style: solid;
+	border-width: thin;
+}
 
 
 /*
