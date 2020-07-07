@@ -30,8 +30,9 @@ Cálculo, estadística, programación, bases de datos y habilidades en la identi
 - Trabajo en equipo, autodidacta, confiado, entusiasta, amigable.
 
 ### Software y lenguajes de programación
-`C`, `C++`, `C#`, `R`, `Ruby`, `PHP`, `HTML5`, `CSS3`, `Javascript`, `XML`, `MySQL`, `Markdown`, `LaTeX`, `Unity`, `XAMPP`, `Microsoft Office`, `Workbench`, `PostgresSQL`, `GitHub`, `Git`, `P5.js`, `MPI`, `OpenMP`, `Pthreads`, `Cisco Packet Tracer`.
-
+{% for item in site.data.skills %}
+<code class="code-aparte">{{ item.name }}</code>, 
+{% endfor %}
 ## Experiencia
 
 `Ago 2018-Actualmente`
