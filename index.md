@@ -53,7 +53,6 @@ Contamos con dos proyectos  finalizados.
 
 ## Otros
 `Noviembre 2019`
-
 **Game Summit**, *Centro de Cultura Española*, CDMX.<br/>
 Participe como staff voluntario en el primer evento realcionado con el desarrollo de videojuegos en paises de habla hispana. El evento fue organizado por estudios españoles y mexicanos, además de contar con el apoyo de Unity Latinoamerica y Unreal Engine.
 
