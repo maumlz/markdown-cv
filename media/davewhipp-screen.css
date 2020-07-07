@@ -63,9 +63,9 @@ p {
 	margin-right: 0;
 	width: 55%;
 
-	border-style: dashed;
+	/* border-style: dashed;
 	border-color: black;
-	border-width: thin;
+	border-width: thin; */
 }
 
 code {
