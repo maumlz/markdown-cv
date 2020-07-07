@@ -185,13 +185,13 @@ strong {
 	display: none;
 }
 
- {
-    border-style: inset;
+ *{
+    /* border-style: inset;
     border-bottom-color: red;
     border-left-color: blue;
     border-right-color: green;
     border-top-color: yellow;
-    border-width: thin;
+    border-width: thin; */
 }
 
 div{
