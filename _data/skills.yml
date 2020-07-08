@@ -9,25 +9,25 @@
   level: 4
 - name: R
   tipo: lan
-  level: 4
+  level: 3
 - name: Ruby
   tipo: lan
-  level: 4
+  level: 1
 - name: PHP
   tipo: lan
-  level: 4
+  level: 3
 - name: HTML5
   tipo: lan
   level: 4
 - name: CSS3
   tipo: lan
-  level: 4
+  level: 3
 - name: Javascript
   tipo: lan
-  level: 4
+  level: 3
 - name: XML
   tipo: lan
-  level: 4
+  level: 2
 - name: MySQL
   tipo: lan
   level: 4
@@ -36,41 +36,41 @@
   level: 4
 - name: LaTeX
   tipo: lan
-  level: 4
+  level: 3
 - name: Unity
   tipo: soft
-  level: 4
+  level: 3
 - name: XAMPP
   tipo: soft
-  level: 4
+  level: 3
 - name: Microsoft Office
   tipo: soft
   level: 4
 - name: Workbench
   tipo: soft
-  level: 4
+  level: 3
 - name: PostgresSQL
   tipo: soft
-  level: 4
+  level: 2
 - name: GitHub
   tipo: soft
-  level: 4
+  level: 3
 - name: Git
   tipo: soft
-  level: 4
+  level: 3
 - name: P5.js
   tipo: lan
-  level: 4
+  level: 3
 - name: MPI
   tipo: lan
-  level: 4
+  level: 2
 - name: OpenMP
   tipo: lan
-  level: 4
+  level: 2
 - name: Pthreads
   tipo: lan
-  level: 4
+  level: 2
 - name: Cisco Packet Tracer
   tipo: soft
-  level: 4
+  level: 3
 - name: last
