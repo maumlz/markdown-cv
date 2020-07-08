@@ -21,7 +21,6 @@ Cálculo, estadística, programación, bases de datos y habilidades en la identi
 
 ## Educación
 
-
 **Lic. Matemáticas Aplicadas y Computación**, *Facultad de Estudios Superiores Acatlán, UNAM.* `2016-2020`
 
 <!-- ## Habilidades
@@ -35,16 +34,16 @@ Trabajo en equipo, autodidacta, confiado, entusiasta, amigable. -->
 
 ## Experiencia
 
-`Desde ago. 2018`
+
 **Sistema Hera**, *Ingeniería de Software*. <code class="code-aparte">PHP</code> <code class="code-aparte">HTML</code> <code class="code-aparte">CSS</code> <code class="code-aparte">Javascript</code> <code class="code-aparte">MySQL</code> <code class="code-aparte">XAMPP</code> <br/>
 Proyecto de la cátedra de Ingeniería de software, en el que se desarrolló un sistema para la gestión de calificaciones de un bachillerato técnico.
 
 Fui el encargado del diseño e implementación de la base de datos y el principal desarrollador back-end del sistema.
 
 La dinámica consistió en la formación de cinco equipos. Cada uno presentó su propuesta de la solución, se estipuló que el sistema que más se adecuara a los requerimientos tendría la oportunidad de implementarlo.
+`Desde ago. 2018`
 
 
-`Desde feb. 2019`
 **Othala**, *Cofundador, Programador*.<br/>
 Proyecto personal para el desarrollo de videojuegos.
 Contamos con dos proyectos finalizados.
@@ -52,6 +51,7 @@ Contamos con dos proyectos finalizados.
   > **Caro** <code class="code-aparte">C#</code> <code class="code-aparte">Unity Engine</code>: Desarrollado para el *2do Concurso de desarrollo de Video Juegos en la Semana de Matemáticas Aplicadas y Computación*. Enfocado a PC, cuenta con una historia corta a través de 5 niveles cada uno siendo un minijuego.
 
   > **Save the Aliens** <code class="code-aparte">C#</code> <code class="code-aparte">Unity Engine</code>: Desarrollado en el *Taller Mermelada Lab* impartido en el [Centro de Cultura Digital](https://centroculturadigital.mx/) de la Ciudad de México. Enfocado a plataformas móviles.
+`Desde feb. 2019`
 
 ## Software y más
 <table id="skills">
@@ -59,13 +59,15 @@ Contamos con dos proyectos finalizados.
 </table>
 
 ## Otros
-`Noviembre 2019`
+
 **Game Summit**, *Centro de Cultura Española*, CDMX.<br/>
 Participe como staff voluntario en el primer evento relacionado con el desarrollo de videojuegos en países de habla hispana. El evento fue organizado por estudios españoles y mexicanos, además de contar con el apoyo de Unity Latinoamérica y Unreal Engine.
+`Noviembre 2019`
 
-`Desde ago. 2018`
+
 **El Podcast de Moi y Mau**, *Colocutor, editor*.<br/>
 Podcast enfocado hacia el debate y reseña sobre la música hip-hop. Contamos con 27 episodios de poco más de una hora donde tocamos diversos temas además de los tópicos musicales.
+`Desde ago. 2018`
 
 **Hobbies**.<br/>
 Entre mis hobbies se encuentran la música, específicamente el hip-hop, el básquetbol y los videojuegos.
