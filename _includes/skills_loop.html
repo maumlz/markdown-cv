@@ -1,7 +1,7 @@
 
-{% assign i = 0 %}{{"inicio: "| append:i}}
+{% assign i = 0 %}
 {% for item in site.data.skills %}
-  {% if i == 0 %}<p>{% endif %}
+  {% if i == 0 %}<p>{{"inicio"}}{% endif %}
   {% if i == 3 %}{{"reinicio"}}</p>{% assign i = 0 %}{% endif %}
 
   <i {% if item.tipo == "lan" %}class ="fas fa-code"{% endif %}></i> {{ item.name }}
