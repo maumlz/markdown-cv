@@ -46,13 +46,13 @@ title: Mauricio Meléndez
           <h2>Educación</h2>
         </div>
         <div class="col5">
-          {% for data in site.data.cv_data %} {{ data.date }}
+          {% for data in site.data.cv_data %} {{ data.date }} {% endfor %}
         </div>
       </div>
       <div class="col2">
       </div>
       <div class="col3">
-        {{data.edu}} {{data.school}} {% endfor %}
+        {% for data in site.data.cv_data %} {{data.edu}} {{data.school}} {% endfor %}
       </div>
 
   </div>
