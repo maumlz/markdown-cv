@@ -18,7 +18,7 @@ menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	margin: 0;
 	padding: 0;
-	border: 0;
+
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
@@ -48,9 +48,121 @@ table {
 }
 /* end of reset */
 
+*{
 
+}
 
 body{
-  font-family: Avenir,Verdana,sans-serif;
+	font: normal normal 400 100%/1.5em Avenir,Verdana,sans-serif;
   margin: 1em;
+	text-align: justify;
+}
+
+
+h1 {
+	text-align: left;
+	font-size: 3em;
+	line-height: 1em;
+	position: relative;
+	left: 20%;
+	width: 50%;
+}
+
+h2{
+	font-size: 14pt;
+	position: relative;
+	right: 5%;
+	top: 25px;
+	text-align: right;
+	width: 20%;
+}
+
+p{
+	position: relative;
+	left: 20%;
+	width: 60%;
+	margin-bottom: 0.7em;
+}
+
+h1+p{
+	font-style: italic;
+	font-size: 16pt;
+}
+
+code{
+	font-size: 8pt;
+	font-family: Monaco,Menlo,monospace,sans-serif;
+	color: #aaa;
+}
+
+p code{
+	position: absolute;
+	text-align: left;
+	left: 110%;
+	width: 25%;
+}
+
+em{
+	font-style: italic;
+}
+
+strong {
+	font-weight: bold;
+}
+
+
+
+.code-aparte{
+	position: static;
+	padding: 2px 4px;
+  font-size: 90%;
+  color: #4c4c99;
+  white-space: nowrap;
+  background-color: #9999ff;
+  border-radius: 4px;
+	font-size:12px;
+}
+
+
+.fas.fa-circle{
+	color: #9999ff;
+	font-size:12px;
+}
+
+.far.fa-circle{
+	font-size:12px;
+}
+
+#skills{
+	position: relative;
+	left: 25%;
+  width: 50%;
+}
+
+#webaddress {
+	margin-top: 1em;
+	position: relative;
+	left: 20%;
+	font-family: Monaco,Menlo,monospace,sans-serif;
+	font-size: 100%;
+	width: max-content;
+}
+
+#webaddress a {
+	text-decoration: none;
+}
+
+
+#webaddress, h2{
+	color: #7f7fff
+}
+
+
+a {
+	color: inherit;
+	/*text-decoration:none*/
+}
+
+a:hover {
+	color:#39f
 }
