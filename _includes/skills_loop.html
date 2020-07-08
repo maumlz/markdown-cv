@@ -3,7 +3,7 @@
 {% for item in site.data.skills %}
   {% if i == 0 %}<!--<div id="skills_p">-->{% endif %}
   {% if item.name != "last" %}
-    <div id="skill"><code class="code-aparte"><i {% if item.tipo == "lan" %}class ="fas fa-code" {% else %}class="fas fa-desktop"{% endif %}></i> {{ item.name }}</code> {% include level_loop.html %}</div> 
+    <div id="skill"><code class="code-aparte"><i {% if item.tipo == "lan" %}class ="fas fa-code" {% else %}class="fas fa-desktop"{% endif %}></i> {{ item.name }}</code> {% include level_loop.html %} </div> 
   {% else %}
 <!--</div>-->{% break %}
   {% endif %}
