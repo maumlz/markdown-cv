@@ -21,7 +21,7 @@ Cálculo, estadística, programación, bases de datos y habilidades en la identi
 
 ## Educación
 
-**Lic. Matemáticas Aplicadas y Computación**, *Facultad de Estudios Superiores Acatlán, UNAM.* `2016-2020`
+**Lic. Matemáticas Aplicadas y Computación**, *Facultad de Estudios Superiores Acatlán, UNAM*. `2016-2020`
 
 <!-- ## Habilidades
 
@@ -34,7 +34,7 @@ Trabajo en equipo, autodidacta, confiado, entusiasta, amigable. -->
 
 ## Experiencia
 
-**Sistema Hera**, *Ingeniería de Software*. <code class="code-aparte">PHP</code> <code class="code-aparte">HTML</code> <code class="code-aparte">CSS</code> <code class="code-aparte">Javascript</code> <code class="code-aparte">MySQL</code> <code class="code-aparte">XAMPP</code> `Desde ago. 2018`
+**Sistema Hera**, *Base de datos, Programador*. <code class="code-aparte">PHP</code> <code class="code-aparte">HTML</code> <code class="code-aparte">CSS</code> <code class="code-aparte">Javascript</code> <code class="code-aparte">MySQL</code> <code class="code-aparte">XAMPP</code> `Desde ago. 2018`
 
 Proyecto de la cátedra de Ingeniería de software, en el que se desarrolló un sistema para la gestión de calificaciones de un bachillerato técnico.
 
@@ -77,7 +77,7 @@ Entre mis hobbies se encuentran la música, específicamente el hip-hop, el bás
 ## Idiomas
   > Español - Lengua Nativa
 
-  > Ingles - Avanzado/Intermedio
+  > Inglés - Avanzado/Intermedio
 
   > Alemán - Básico/Principiante
 
