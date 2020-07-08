@@ -1,11 +1,10 @@
 
 {% assign i = 0 %}
 {% for item in site.data.skills %}
-  {% if i == 0 %}<p>{{"inicio"}}{% endif %}
+  {% if i == 0 %}<p>{% endif %}
     <i {% if item.tipo == "lan" %}class ="fas fa-code"{% endif %}></i> {{ item.name }}
-  {% if i == 4 %}{{"reinicio"}}</p>{% assign i = -1 %}{% endif %}
-{% assign i = i | plus: 1 %}{{"suma: "| append: i}}
-
+  {% if i == 4 %}</p>{% assign i = -1 %}{% endif %}
+{% assign i = i | plus: 1 %}
 {% else %}
   no
 {% endfor %}
