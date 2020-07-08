@@ -13,7 +13,9 @@ title: Mauricio Meléndez
         <div class="w3-display-container">
           <img src="/w3images/avatar_hat.jpg" style="width:100%" alt="Avatar">
           <div class="w3-display-bottomleft w3-container w3-text-black">
-            ## Mauricio Meléndez
+
+## {{page.title}}
+
           </div>
         </div>
         <div class="w3-container">
