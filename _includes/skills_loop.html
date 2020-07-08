@@ -3,7 +3,7 @@
 {% for item in site.data.skills %}
 {% if i == 1 %}
 <p>
-{% i | plus:1 %}
+{% assign i = i | plus:1 %}
 {% endif %}
   <i {% if item.tipo == "lan" %}class ="fas fa-code"{% endif %}></i>
   {{ item.name }}
