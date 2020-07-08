@@ -4,7 +4,7 @@
   {% if i == 0 %}<p>{% endif %}
 
   {% if item.name != "last" %}
-    <code class="code-aparte"><i {% if item.tipo == "lan" %}class ="fas fa-code" {% else %}class="fas fa-desktop"{% endif %}></i> {{ item.name }}</code>
+    <code class="code-aparte"><i {% if item.tipo == "lan" %}class ="fas fa-code" {% else %}class="fas fa-desktop"{% endif %}></i> {{ item.name }}</code> {% include level_loop.html%}
   {% else %}
     </p>{% break %}
   {% endif %}
