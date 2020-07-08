@@ -3,7 +3,7 @@
 {% for item in site.data.skills %}
   {% if i == 0 %}<p>{{"inicio"}}{% endif %}
     <i {% if item.tipo == "lan" %}class ="fas fa-code"{% endif %}></i> {{ item.name }}
-  {% if i == 2 %}{{"reinicio"}}</p>{% assign i = -1 %}{% endif %}
+  {% if i == 4 %}{{"reinicio"}}</p>{% assign i = -1 %}{% endif %}
 {% assign i = i | plus: 1 %}{{"suma: "| append: i}}
 
 {% else %}
