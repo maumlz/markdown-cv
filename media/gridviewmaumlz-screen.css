@@ -1,0 +1,53 @@
+* {
+  box-sizing: border-box;
+  border: thin solid black;
+}
+
+
+/* For mobile phones: */
+@media only screen and (max-width: 600px) {
+
+  [class*="col"] {
+    width: 100%;
+  }
+
+
+}
+
+/*For Laptops, Desktops*/
+@media only screen and (min-width: 992px) {
+  .col1{
+    width: 15%;
+  }
+  .col2{
+    width: 5%;
+  }
+  .col3{
+    width: 80%;
+  }
+  .col4{
+    width: 70%;
+    text-align: right;
+  }
+  .col5{
+    width: 40%;
+    text-align: right;
+  }
+
+  [class*="col"] {
+    float: left;
+    padding: 15px;
+    border: inherit;
+  }
+
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+  .language-plaintext.highlighter-rouge{
+    text-align: right;
+  }
+
+}
