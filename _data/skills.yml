@@ -2,8 +2,10 @@
   tipo: lan
   level: 4
 - name: C++
+  tipo: lan
   level: 4
 - name: C#
+  tipo: lan
   level: 4
 - name: R
   tipo: lan

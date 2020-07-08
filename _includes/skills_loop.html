@@ -1,7 +1,15 @@
 
-
+{% assign i = 1 %}
 {% for item in site.data.skills %}
-<p><i {% if item.tipo == "lan" %}class ="fas fa-code"{% endif %}></i>
+{% if i == 1 %}
+<p>
+{% i | plus:1 %}
+{% endif %}
+  <i {% if item.tipo == "lan" %}class ="fas fa-code"{% endif %}></i>
   {{ item.name }}
+{% if i == 3 %}
+</p>
+{% assign i = 1%}
+{% endif %}
 </p>
 {% endfor %}
