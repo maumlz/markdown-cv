@@ -34,7 +34,8 @@ Trabajo en equipo, autodidacta, confiado, entusiasta, amigable. -->
 
 ## Experiencia
 
-**Sistema Hera**, *Ingeniería de Software*. <code class="code-aparte">PHP</code> <code class="code-aparte">HTML</code> <code class="code-aparte">CSS</code> <code class="code-aparte">Javascript</code> <code class="code-aparte">MySQL</code> <code class="code-aparte">XAMPP</code> <br/> `Desde ago. 2018`
+**Sistema Hera**, *Ingeniería de Software*. <code class="code-aparte">PHP</code> <code class="code-aparte">HTML</code> <code class="code-aparte">CSS</code> <code class="code-aparte">Javascript</code> <code class="code-aparte">MySQL</code> <code class="code-aparte">XAMPP</code> `Desde ago. 2018`
+
 Proyecto de la cátedra de Ingeniería de software, en el que se desarrolló un sistema para la gestión de calificaciones de un bachillerato técnico.
 
 Fui el encargado del diseño e implementación de la base de datos y el principal desarrollador back-end del sistema.
@@ -43,7 +44,7 @@ La dinámica consistió en la formación de cinco equipos. Cada uno presentó su
 
 
 
-**Othala**, *Cofundador, Programador*. `Desde feb. 2019`<br/>
+**Othala**, *Cofundador, Programador*. `Desde feb. 2019`
 Proyecto personal para el desarrollo de videojuegos.
 Contamos con dos proyectos finalizados.
 
@@ -59,17 +60,17 @@ Contamos con dos proyectos finalizados.
 
 ## Otros
 
-**Game Summit**, *Centro de Cultura Española*, CDMX.<br/>
+**Game Summit**, *Centro de Cultura Española*, CDMX. `Noviembre 2019`
 Participe como staff voluntario en el primer evento relacionado con el desarrollo de videojuegos en países de habla hispana. El evento fue organizado por estudios españoles y mexicanos, además de contar con el apoyo de Unity Latinoamérica y Unreal Engine.
-`Noviembre 2019`
 
 
-**El Podcast de Moi y Mau**, *Colocutor, editor*.<br/>
+
+**El Podcast de Moi y Mau**, *Colocutor, editor*. `Desde ago. 2018`
 Podcast enfocado hacia el debate y reseña sobre la música hip-hop. Contamos con 27 episodios de poco más de una hora donde tocamos diversos temas además de los tópicos musicales.
-`Desde ago. 2018`
 
 
-**Hobbies**.<br/>
+
+**Hobbies**.
 Entre mis hobbies se encuentran la música, específicamente el hip-hop, el básquetbol y los videojuegos.
 
 
