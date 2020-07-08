@@ -45,6 +45,8 @@ q:before, q:after {
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
+	width: 100%;
+	border: thin solid;
 }
 
 /* end of reset */
@@ -61,7 +63,7 @@ p {
 	left: 25%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
-	width: 55%;
+	width: 50%;
 	text-align: justify;
 	/* border-style: dashed;
 	border-color: black;
@@ -112,7 +114,6 @@ li ul {
 h1,h2,h3,h4 {
 	font-weight: 400;
 	font-family: Avenir,Cousine,Verdana,sans-serif;
-	width: 40%;
 }
 
 h1 {
@@ -121,6 +122,7 @@ h1 {
 	line-height: 1em;
 	position: relative;
 	left: 25%;
+	width: 50%;
 }
 
 h1+p {
@@ -130,6 +132,7 @@ h1+p {
 	position: relative;
 	text-align: left;
 	left: 25%;
+	width: 50%;
 }
 
 h2 {
@@ -223,7 +226,7 @@ p code{
 #skills{
 	position: relative;
 	left: 25%;
-
+  width: 50%;
 }
 
 /*
