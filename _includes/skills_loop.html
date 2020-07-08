@@ -1,1 +1,7 @@
-hola
+
+
+{% for item in site.data.skills %}
+<p><i {% if item.tipo == "lan"}class ="fas fa-code"{% endif %}></i>
+  {{ item.name }}
+</p>
+{% endfor %}
