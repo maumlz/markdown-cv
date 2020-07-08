@@ -2,7 +2,7 @@
 layout: cv
 title: Mauricio Meléndez
 ---
-# {{page.title}} {.col2}
+# {{page.title}} {#col2}
 Desarrollador de software.
 
 <div id="webaddress">
