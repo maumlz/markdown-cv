@@ -1,6 +1,9 @@
 - name: C
+  level: 4
 - name: C++
+  level: 4
 - name: C#
+  level: 4
 - name: R
 - name: Ruby
 - name: PHP
@@ -22,4 +25,4 @@
 - name: MPI
 - name: OpenMP
 - name: Pthreads
-- name: Cisco Packet Tracer 
+- name: Cisco Packet Tracer
