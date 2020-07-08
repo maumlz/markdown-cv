@@ -60,14 +60,14 @@ p {
 	left: 25%;
 	margin-bottom: 0.2em;
 	margin-right: 0;
-	width: 55%;
+	width: 50%;
 	text-align: justify;
 
 }
 
 code {
 	font: normal normal 90%/normal Monaco,Menlo,monospace,sans-serif;
-	color: #ccc;
+	color: #aaa;
 }
 
 p code {
@@ -109,7 +109,6 @@ li ul {
 h1,h2,h3,h4 {
 	font-weight: 400;
 	font-family: Avenir,Cousine,Verdana,sans-serif;
-	width: 80%;
 }
 
 h1 {
@@ -118,17 +117,22 @@ h1 {
 	line-height: 1em;
 	position: relative;
 	left: 25%;
+	width: 50%;
 }
 
 h1+p {
 	/*subtitle*/
 	font-style: italic;
 	font-size: 110%;
+	position: relative;
+	text-align: left;
+	left: 25%;
+	width: 50%;
 }
 
 h2 {
 	font-size: 1.1em;
-	color: #a00;
+	color: #7f7fff;
 	margin-top: 2em;
 	position: relative;
 	top: 1.2em;
@@ -140,7 +144,7 @@ h2 {
 h3 {
 	font-size: 1em;
 	line-height: 2em;
-	color: #ccc;
+	color: #7f7fff;
 	position: relative;
 	top: 1.6em;
 	text-align: right;
@@ -160,7 +164,7 @@ a:hover {
 	margin-top: 1em;
 	position: relative;
 	left: 25%;
-	color: #ccc;
+	color: #7f7fff;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 90%;
 	width: max-content;
@@ -187,10 +191,11 @@ strong {
 	position: static;
 	padding: 2px 4px;
   font-size: 90%;
-  color: #c7254e;
+  color: #4c4c99;
   white-space: nowrap;
-  background-color: #f9f2f4;
+  background-color: #9999ff;
   border-radius: 4px;
+	font-size:12px;
 }
 
 
@@ -200,20 +205,21 @@ p code{
 	width: 25%;
 }
 
+skills {
+	width: auto;
+}
+
+.fas.fa-circle{
+	color: #9999ff;
+	font-size:12px;
+}
+
+.far.fa-circle{
+	font-size:12px;
+}
+
 #skills{
 	position: relative;
-	top: 55px;
-}
-
-code.language-plaintext.highlighter-rouge{
-	font-size: 60%;
-	color: #aaa;
-  position: absolute;
-	left: 102.5%;
-	top: 10%;
-}
-
-.otro{
-	position: relative;
-	bottom: 40px;
+	left: 25%;
+  width: 50%;
 }
