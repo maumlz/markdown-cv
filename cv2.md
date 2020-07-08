@@ -56,7 +56,7 @@ Contamos con dos proyectos finalizados.
 ## Software y más
 <table>
 {% tablerow item in site.data.skills %}
-  <i class="fas fa-code"></i> {{ item.name }} 
+  <i class="fas fa-code"></i> <code class="code-aparte">{{ item.name }}</code> 
 {% endtablerow %}
 </table>
 
