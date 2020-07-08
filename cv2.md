@@ -2,7 +2,7 @@
 layout: cv
 title: Mauricio Meléndez
 ---
-# {{page.title}} {#col2}
+# {{page.title}}
 Desarrollador de software.
 
 <div id="webaddress">
@@ -11,17 +11,17 @@ Desarrollador de software.
 {% endfor %}
 </div>
 
-## Objetivos {#col1}
+## Objetivos
 
 Crecer como desarrollador de software en las nuevas tecnologías con interés en las áreas de redes, seguridad de la información, ciberseguridad y desarrollo de videojuegos.
 
-## Conocimiento en {#col1}
+## Conocimiento en
 
 Cálculo, estadística, programación, bases de datos y habilidades en la identificación y resolución de problemas en diferentes ámbitos.
 
-## Educación {#col1}
+## Educación
 
-**Lic. Matemáticas Aplicadas y Computación**, *Facultad de Estudios Superiores Acatlán, UNAM.* `2016-2020`{#col3}
+**Lic. Matemáticas Aplicadas y Computación**, *Facultad de Estudios Superiores Acatlán, UNAM.* `2016-2020`
 
 <!-- ## Habilidades
 
@@ -32,7 +32,7 @@ Cálculo, estadística, programación, bases de datos y habilidades en la identi
 Trabajo en equipo, autodidacta, confiado, entusiasta, amigable. -->
 
 
-## Experiencia {#col1}
+## Experiencia
 
 **Sistema Hera**, *Ingeniería de Software*. <code class="code-aparte">PHP</code> <code class="code-aparte">HTML</code> <code class="code-aparte">CSS</code> <code class="code-aparte">Javascript</code> <code class="code-aparte">MySQL</code> <code class="code-aparte">XAMPP</code> `Desde ago. 2018`
 
@@ -53,12 +53,12 @@ Contamos con dos proyectos finalizados.
   - **Save the Aliens** <code class="code-aparte">C#</code> <code class="code-aparte">Unity Engine</code>: Desarrollado en el *Taller Mermelada Lab* impartido en el [Centro de Cultura Digital](https://centroculturadigital.mx/) de la Ciudad de México. Enfocado a plataformas móviles.
 
 
-## Software y más {#col1}
+## Software y más
 <div id="skills">
 {% include skills_loop.html %}
 </div>
 
-## Otros {#col1}
+## Otros
 
 **Game Summit**, *Centro de Cultura Española*, CDMX. `Noviembre 2019`
 Participe como staff voluntario en el primer evento relacionado con el desarrollo de videojuegos en países de habla hispana. El evento fue organizado por estudios españoles y mexicanos, además de contar con el apoyo de Unity Latinoamérica y Unreal Engine.
@@ -74,7 +74,7 @@ Podcast enfocado hacia el debate y reseña sobre la música hip-hop. Contamos co
 Entre mis hobbies se encuentran la música, específicamente el hip-hop, el básquetbol y los videojuegos.
 
 
-## Idiomas {#col1}
+## Idiomas
   > Español - Lengua Nativa
 
   > Ingles - Avanzado/Intermedio
