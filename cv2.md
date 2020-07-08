@@ -21,7 +21,7 @@ Cálculo, estadística, programación, bases de datos y habilidades en la identi
 
 ## Educación {#col1}
 
-**Lic. Matemáticas Aplicadas y Computación**, *Facultad de Estudios Superiores Acatlán, UNAM.* `2016-2020`
+**Lic. Matemáticas Aplicadas y Computación**, *Facultad de Estudios Superiores Acatlán, UNAM.* `2016-2020`{#col3}
 
 <!-- ## Habilidades
 
