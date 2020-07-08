@@ -2,9 +2,14 @@
 {% assign i = 0 %}
 {% for item in site.data.skills %}
   {% if i == 0 %}<p>{% endif %}
-    <i {% if item.tipo == "lan" %}class ="fas fa-code" {% else %}class="fas fa-desktop"{% endif %}></i> {{ item.name }}
+  <i {% if item.tipo == "lan" %}class ="fas fa-code" {% else %}class="fas fa-desktop"{% endif %}></i>
+  {% if item.name != "last" %}
+    {{ item.name }}
+  {% else %}
+    </p>{% break %}
+  {% endif %}
   {% if i == 3 %}</p>{% assign i = -1 %}{% endif %}
-{% assign i = i | plus: 1 %}
+  {% assign i = i | plus: 1 %}
 {% else %}
   {{ "no" }}
 {% endfor %}
