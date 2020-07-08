@@ -11,7 +11,7 @@ title: Mauricio Meléndez
 
       </div>
       <div class="col3">
-        <h1>{{ site.data.cv_data.name }}</h1>
+        <h1>{% for data in site.data.cv_data %} {{data.name}} {% endfor %}</h1>
       </div>
   </div>
   <div class="row">
@@ -24,7 +24,7 @@ title: Mauricio Meléndez
 
       </div>
       <div class="col3">
-        {{ site.data.c_data.goals}}
+        {% site.data.c_data.goals %}
       </div>
   </div>
 </div>
