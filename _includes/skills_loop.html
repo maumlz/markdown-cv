@@ -2,9 +2,9 @@
 {% assign i = 0 %}
 {% for item in site.data.skills %}
   {% if i == 0 %}<p>{% endif %}
-  <i {% if item.tipo == "lan" %}class ="fas fa-code" {% else %}class="fas fa-desktop"{% endif %}></i>
+
   {% if item.name != "last" %}
-    <code class="code-aparte">{{ item.name }}</code>
+    <code class="code-aparte"><i {% if item.tipo == "lan" %}class ="fas fa-code" {% else %}class="fas fa-desktop"{% endif %}></i> {{ item.name }}</code>
   {% else %}
     </p>{% break %}
   {% endif %}
