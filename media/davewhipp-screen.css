@@ -228,6 +228,10 @@ p code{
   width: 50%;
 }
 
+* {
+	border: 3px dotted #73AD21;
+}
+
 /*
 @media only screen and (max-width: 480px) {
 	make one column somehow...
