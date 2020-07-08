@@ -24,7 +24,7 @@ title: Mauricio Meléndez
 
       </div>
       <div class="col3">
-        {% site.data.c_data.goals %}
+        {% for data in site.data.cv_data %} {{data.goals}} {% endfor %}
       </div>
   </div>
 </div>
