@@ -54,15 +54,7 @@ Contamos con dos proyectos finalizados.
   > **Save the Aliens** <code class="code-aparte">C#</code> <code class="code-aparte">Unity Engine</code>: Desarrollado en el *Taller Mermelada Lab* impartido en el [Centro de Cultura Digital](https://centroculturadigital.mx/) de la Ciudad de México. Enfocado a plataformas móviles.
 
 ## Software y más
-<table>
-{% tablerow item in site.data.skills %}
-  <i class="fas fa-code"></i> <code class="code-aparte">{{ item.name }}</code> 
-{% endtablerow %}
-</table>
-
-<p><i class="fas fa-code"></i> C <i class="fas fa-square"></i> <i class="fas fa-square"></i> <i class="fas fa-square"></i> <i class="fas fa-square"></i> <i class="far fa-square"></i></p>
-<p><i class="fas fa-code"></i> C++ <i class="fas fa-square"></i> <i class="fas fa-square"></i> <i class="fas fa-square"></i> <i class="fas fa-square"></i> <i class="far fa-square"></i></p>
-<p><i class="fas fa-code"></i> C# <i class="fas fa-square"></i> <i class="fas fa-square"></i> <i class="fas fa-square"></i> <i class="far fa-square"></i> <i class="far fa-square"></i></p>
+{% include.skills_loop %}
 
 ## Otros
 `Noviembre 2019`
