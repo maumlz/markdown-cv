@@ -54,9 +54,9 @@ Contamos con dos proyectos finalizados.
 
 
 ## Software y más
-<table id="skills">
+<div id="skills">
 {% include skills_loop.html %}
-</table>
+</div>
 
 ## Otros
 

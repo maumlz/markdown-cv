@@ -1,13 +1,13 @@
 
 {% assign i = 0 %}
 {% for item in site.data.skills %}
-  {% if i == 0 %}<tr id="skills_p">{% endif %}
+  {% if i == 0 %}<div id="skills_p">{% endif %}
   {% if item.name != "last" %}
-    <td id="skill"><code class="code-aparte"><i {% if item.tipo == "lan" %}class ="fas fa-code" {% else %}class="fas fa-desktop"{% endif %}></i> {{ item.name }}</code> {% include level_loop.html %}</td>
+    <!-- <td id="skill">--><code class="code-aparte"><i {% if item.tipo == "lan" %}class ="fas fa-code" {% else %}class="fas fa-desktop"{% endif %}></i> {{ item.name }}</code> {% include level_loop.html %}<!--</td> -->
   {% else %}
-</tr>{% break %}
+</div>{% break %}
   {% endif %}
-  {% if i == 2 %}</tr>{% assign i = -1 %}{% endif %}
+  {% if i == 2 %}</div>{% assign i = -1 %}{% endif %}
   {% assign i = i | plus: 1 %}
 {% else %}
   {{ "no" }}
