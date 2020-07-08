@@ -196,6 +196,8 @@ strong {
   white-space: nowrap;
   background-color: #9999ff;
   border-radius: 4px;
+	font-size:12px;
+
 }
 
 
@@ -205,9 +207,18 @@ p code{
 	width: 25%;
 }
 
-#skills{
-	position: relative;
-	top: 55px;
+.skills {
+	width: auto;
+}
+
+.fas.fa-circle{
+	color: #9999ff;
+	size: 80%;
+	font-size:12px;
+}
+
+.far.fa-circle{
+	font-size:12px;
 }
 
 /*

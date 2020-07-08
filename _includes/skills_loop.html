@@ -1,7 +1,7 @@
 
 {% assign i = 0 %}
 {% for item in site.data.skills %}
-  {% if i == 0 %}<p>{% endif %}
+  {% if i == 0 %}<p class="skills">{% endif %}
 
   {% if item.name != "last" %}
     <code class="code-aparte"><i {% if item.tipo == "lan" %}class ="fas fa-code" {% else %}class="fas fa-desktop"{% endif %}></i> {{ item.name }}</code> {% include level_loop.html %}
