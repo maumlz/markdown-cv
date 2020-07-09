@@ -169,7 +169,7 @@ table {
 }
 
 /*For Laptops, Desktops*/
-@media  screen and (min-width: 1024px) {
+@media  screen and (min-width: 720px) {
   body{
     font: normal normal 400 100%/1.5em Avenir,Verdana,sans-serif;
     margin-left: 1.5cm;
