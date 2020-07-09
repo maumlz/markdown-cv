@@ -28,6 +28,7 @@ La dinámica consistió en la formación de cinco equipos. Cada uno presentó su
 <div class="col5">
 
 **Othala**, *Cofundador, Programador*.
+
 Proyecto personal para el desarrollo de videojuegos.
 Contamos con dos proyectos finalizados.
 
