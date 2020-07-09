@@ -20,7 +20,7 @@ Fui el encargado del diseño e implementación de la base de datos y el principa
 La dinámica consistió en la formación de cinco equipos. Cada uno presentó su propuesta de la solución, se estipuló que el sistema que más se adecuara a los requerimientos tendría la oportunidad de implementarlo.
 
 </p>
-
+</div>
 
 
 <div class="row2">
