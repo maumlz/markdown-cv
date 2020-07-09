@@ -3,7 +3,12 @@
   <div class="col5">
 **Sistema Hera**, *Base de datos, Programador*.
 
-<code class="code-aparte">PHP</code> <code class="code-aparte">HTML</code> <code class="code-aparte">CSS</code> <code class="code-aparte">Javascript</code> <code class="code-aparte">MySQL</code> <code class="code-aparte">XAMPP</code>
+<code class="code-aparte">PHP</code>
+<code class="code-aparte">HTML</code>
+<code class="code-aparte">CSS</code>
+<code class="code-aparte">Javascript</code>
+<code class="code-aparte">MySQL</code>
+<code class="code-aparte">XAMPP</code>
 
 <p>
 Proyecto de la cátedra de Ingeniería de software, en el que se desarrolló un sistema para la gestión de calificaciones de un bachillerato técnico.
