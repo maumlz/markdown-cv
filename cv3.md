@@ -57,9 +57,7 @@ title: Mauricio Meléndez
 
   <div class="row">
     <div class="col1">
-      <div class="col4">
         <h2>Experiencia</h2>
-      </div>
     </div>
     <div class="col2">
     </div>

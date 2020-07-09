@@ -1,3 +1,5 @@
+---
+---
 **Game Summit**, *Centro de Cultura Española*, CDMX. `Noviembre 2019`
 Participe como staff voluntario en el primer evento relacionado con el desarrollo de videojuegos en países de habla hispana. El evento fue organizado por estudios españoles y mexicanos, además de contar con el apoyo de Unity Latinoamérica y Unreal Engine.
 
