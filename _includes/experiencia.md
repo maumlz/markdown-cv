@@ -1,5 +1,5 @@
 <div class="row2">
-<div class="col4">Desde ago. 2018</div>
+<div class="col4"><code class="fecha">Desde ago. 2018</code></div>
 <div class="col5">
 
 {{"__Sistema Hera__, *Base de datos, Programador*."|markdownify}}
@@ -23,14 +23,14 @@ La dinámica consistió en la formación de cinco equipos. Cada uno presentó su
 </div>
 
 <div class="row2">
-<div class="col4">Desde feb. 2019</div>
+<div class="col4"><code class="fecha">Desde feb. 2019</code></div>
 <div class="col5">
 
 {{"**Othala**, *Cofundador, Programador*."  |markdownify}}
 Proyecto personal para el desarrollo de videojuegos.
 Contamos con dos proyectos finalizados.
 
-<p>
+
 
 {{"**Caro**" | markdownify}}<code class="code-aparte">C#</code> <code class="code-aparte">Unity Engine</code>:
 
@@ -38,6 +38,6 @@ Contamos con dos proyectos finalizados.
 
 {{"**Save the Aliens**" | markdownify}} <code class="code-aparte">C#</code> <code class="code-aparte">Unity Engine</code>:
 {{"Desarrollado en el *Taller Mermelada Lab* impartido en el [Centro de Cultura Digital](https://centroculturadigital.mx/) de la Ciudad de México. Enfocado a plataformas móviles."|markdownify}}
-</p>
+
 </div>
 </div>

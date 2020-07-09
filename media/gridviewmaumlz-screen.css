@@ -1,43 +1,108 @@
+/* http://meyerweb.com/eric/tools/css/reset/
+v2.0 | 20110126
+License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol, ul {
+  list-style: none;
+}
+blockquote, q {
+  quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+/* end of reset */
+
+
 * {
   box-sizing: border-box;
-  border: thin solid black;
+  /* border: thin solid black; */
+  height: auto;
 }
 
 
 /* For mobile phones: */
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 992px) {
+  body{
+    font: normal normal 400 100%/1.5em Avenir,Verdana,sans-serif;
+    margin:1em;
+    text-align: justify;
+  }
+
 
   [class*="col"] {
     width: 100%;
+    border-top: thin solid;
   }
 
 
-}
-
-/*For Laptops, Desktops*/
-@media only screen and (min-width: 992px) {
-  .col1{
-    width: 15%;
-  }
-  .col2{
-    width: 5%;
-  }
-  .col3{
-    width: 80%;
-  }
-  .col4{
-    width: 30%;
-    text-align: right;
-  }
-  .col5{
-    width: 70%;
-    text-align: right;
+  #nombre{
+    text-align: left;
+    font-size: 3em;
+    line-height: 1em;
+    position: relative;
   }
 
-  [class*="col"] {
-    float: left;
-    padding: 15px;
-    border: inherit;
+  p{
+    margin-bottom: 0.7em;
+  }
+
+  h1+p{
+    font-style: italic;
+    font-size: 16pt;
+  }
+
+  #webaddress {
+    margin-top: 1em;
+    font-family: Monaco,Menlo,monospace,sans-serif;
+    font-size: 100%;
+  }
+
+  #webaddress a {
+    text-decoration: none;
+  }
+
+  #webaddress,h2,a{
+    color: #7f7fff
+  }
+
+  h2{
+    font-size: 14pt;
+    text-align: left;
   }
 
   .row::after {
@@ -50,4 +115,192 @@
     text-align: right;
   }
 
+  .fecha {
+    font-size: 8pt;
+    font-family: Monaco,Menlo,monospace,sans-serif;
+    color: #aaa;
+    width: 100%;
+    display: flex;
+  }
+
+  .code-aparte{
+    position: static;
+    padding: 2px 4px;
+    font-size: 90%;
+    color: #4c4c99;
+    white-space: nowrap;
+    background-color: #9999ff;
+    border-radius: 4px;
+    font-size:12px;
+  }
+
+  .fas.fa-circle{
+    color: #9999ff;
+    font-size:12px;
+  }
+
+  .far.fa-circle{
+    font-size:12px;
+  }
+
+  .skills{
+    width: 100%;
+    height: max-content;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: flex-start;
+  }
+
+  .flex-container > div {
+    background-color: #f1f1f1;
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }
+
+  .skill{
+    margin: 2px;
+    margin-right: 10px;
+  }
+
+
+}
+
+/*For Laptops, Desktops*/
+@media  screen and (min-width: 992px) {
+  body{
+    font: normal normal 400 100%/1.5em Avenir,Verdana,sans-serif;
+    margin-left: 1.5cm;
+    margin-right: 1.5cm;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+    text-align: justify;
+  }
+
+  .col1{
+    width: 15%;
+  }
+  .col2{
+    width: 5%;
+  }
+  .col3{
+    width: 80%;
+    position: sticky;
+    left: 25%;
+  }
+  .col4{
+    width: 15%;
+  }
+  .col5{
+    width: 85%;
+    position: sticky;
+    left: 40%;
+  }
+
+  #nombre{
+    text-align: left;
+    font-size: 3em;
+    line-height: 1em;
+    position: relative;
+  }
+
+  p{
+    margin-bottom: 0.7em;
+  }
+
+  h1+p{
+    font-style: italic;
+    font-size: 16pt;
+  }
+
+  #webaddress {
+    margin-top: 1em;
+    font-family: Monaco,Menlo,monospace,sans-serif;
+    font-size: 100%;
+  }
+
+  #webaddress a {
+    text-decoration: none;
+  }
+
+  #webaddress,h2,a{
+    color: #7f7fff
+  }
+
+  h2{
+    font-size: 14pt;
+    text-align: right;
+  }
+
+
+
+
+
+  [class*="col"] {
+    float: left;
+    padding: 15px;
+    /* border: inherit; */
+  }
+
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+  .language-plaintext.highlighter-rouge{
+    text-align: right;
+  }
+
+  .fecha {
+    font-size: 8pt;
+    font-family: Monaco,Menlo,monospace,sans-serif;
+    color: #aaa;
+    width: 100%;
+    display: flex;
+    justify-content: right;
+  }
+
+  .code-aparte{
+    position: static;
+    padding: 2px 4px;
+    font-size: 90%;
+    color: #4c4c99;
+    white-space: nowrap;
+    background-color: #9999ff;
+    border-radius: 4px;
+    font-size:12px;
+  }
+
+  .fas.fa-circle{
+    color: #9999ff;
+    font-size:12px;
+  }
+
+  .far.fa-circle{
+    font-size:12px;
+  }
+
+  .skills{
+    height: 300px;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: flex-start;
+  }
+
+  .flex-container > div {
+    background-color: #f1f1f1;
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }
+
+  .skill{
+    margin: 2px;
+    margin-right: 10px;
+  }
 }

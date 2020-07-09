@@ -1,0 +1,100 @@
+---
+layout: gridview
+title: Mauricio Meléndez
+---
+<div class="page">
+
+  <div class="row">
+    <div class="col3">
+      <h1 id="nombre">{% for data in site.data.cv_data %} {{data.name}} {% endfor %}</h1>
+      <p>{% for data in site.data.cv_data %} {{data.description}} {% endfor %}</p>
+      <div id="webaddress">
+        {% for item in site.data.contact %}
+        <a href="{{ item.link }}"><i class="{{ item.class }}"></i> {{ item.name }}</a> |
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col1">
+      <h2>Objetivos</h2>
+    </div>
+    <div class="col3">
+      <p>{% for data in site.data.cv_data %} {{data.goals}} {% endfor %}</p>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col1">
+      <h2>Conocimiento en</h2>
+    </div>
+    <div class="col3">
+      <p>{% for data in site.data.cv_data %} {{data.known}} {% endfor %}</p>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col1">
+      <h2>Educación</h2>
+    </div>
+    <div class="col3">
+      <div class="row2">
+        <div class="col4">
+          <code class="fecha">{% for data in site.data.cv_data %} {{ data.date }} {% endfor %}</code>
+        </div>
+        <div class="col5">
+          {% for data in site.data.cv_data %}
+          {% if data.edu %}
+          {{"*" |append: data.edu | append :"*," | append: " **" |append: data.school | append :"**" |markdownify}}
+          {%endif%}
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col1">
+      <h2>Experiencia</h2>
+    </div>
+    <div class="col3">
+      {% include experiencia.md %}
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col1">
+      <h2>Software y más</h2>
+    </div>
+    <div class="col3">
+      <div class="col5 skills">
+        {% include skills_loop.html %}
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col1">
+      <h2>Otros</h2>
+    </div>
+    <div class="col3">
+      {% include otros.md %}
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col1">
+      <h2>Idiomas</h2>
+    </div>
+    <div class="col3">
+      <div class="row2">
+        <div class="col5">
+          {{" * Español - Lengua Nativa"|markdownify}}
+          {{" * Inglés - Avanzado/Intermedio"|markdownify}}
+          {{" * Alemán - Básico/Principiante"|markdownify}}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
