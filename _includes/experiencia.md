@@ -1,7 +1,7 @@
 # Desde
 
 **Sistema Hera**, *Base de datos, Programador*.
-
+{%raw%}
 <div class="row2">
 <div class="col4">Desde ago. 2018</div>
 <div class="col5">
@@ -43,3 +43,4 @@ Contamos con dos proyectos finalizados.
 </p>
 </div>
 </div>
+{%endraw%}
