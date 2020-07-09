@@ -5,7 +5,7 @@
 <div class="row2">
 <div class="col4">Desde ago. 2018</div>
 <div class="col5">
-
+{%endraw%}
 **Sistema Hera**, *Base de datos, Programador*.
 
 <code class="code-aparte">PHP</code>
@@ -43,4 +43,3 @@ Contamos con dos proyectos finalizados.
 </p>
 </div>
 </div>
-{%endraw%}
