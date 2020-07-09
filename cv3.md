@@ -62,7 +62,7 @@ title: Mauricio Meléndez
     <div class="col2">
     </div>
     <div class="col3">
-      {% include experiencia.html %}
+      {% include experiencia.md %}
     </div>
   </div>
 
