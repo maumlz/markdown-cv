@@ -1,6 +1,6 @@
----
-layout: default
----
+<div class="row2">
+<div class="col4">Desde ago. 2018</div>
+<div class="col5">
 
 **Sistema Hera**, *Base de datos, Programador*.
 
