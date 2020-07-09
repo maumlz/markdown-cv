@@ -1,6 +1,7 @@
 <div class="row2">
 <div class="col4">Desde ago. 2018</div>
 <div class="col5">
+
 **Sistema Hera**, *Base de datos, Programador*.
 
 <code class="code-aparte">PHP</code>
@@ -11,12 +12,15 @@
 <code class="code-aparte">XAMPP</code>
 
 <p>
+
 Proyecto de la cátedra de Ingeniería de software, en el que se desarrolló un sistema para la gestión de calificaciones de un bachillerato técnico.
 
 Fui el encargado del diseño e implementación de la base de datos y el principal desarrollador back-end del sistema.
 
 La dinámica consistió en la formación de cinco equipos. Cada uno presentó su propuesta de la solución, se estipuló que el sistema que más se adecuara a los requerimientos tendría la oportunidad de implementarlo.
+
 </p>
+
 </div>
 
 <div class="row2">
@@ -27,8 +31,10 @@ La dinámica consistió en la formación de cinco equipos. Cada uno presentó su
 Proyecto personal para el desarrollo de videojuegos.
 Contamos con dos proyectos finalizados.
 
+<p>
 - **Caro** <code class="code-aparte">C#</code> <code class="code-aparte">Unity Engine</code>: Desarrollado para el *2do Concurso de desarrollo de Video Juegos en la Semana de Matemáticas Aplicadas y Computación*. Enfocado a PC, cuenta con una historia corta a través de 5 niveles cada uno siendo un minijuego.
 
 - **Save the Aliens** <code class="code-aparte">C#</code> <code class="code-aparte">Unity Engine</code>: Desarrollado en el *Taller Mermelada Lab* impartido en el [Centro de Cultura Digital](https://centroculturadigital.mx/) de la Ciudad de México. Enfocado a plataformas móviles.
+</p>
 </div>
 </div>
