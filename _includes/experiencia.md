@@ -1,10 +1,13 @@
-<div class="row2">
-<div class="col4">Desde ago. 2018</div>
-<div class="col5">
+
 
 **Sistema Hera**, *Base de datos, Programador*.
 
-
+<code class="code-aparte">PHP</code>
+<code class="code-aparte">HTML</code>
+<code class="code-aparte">CSS</code>
+<code class="code-aparte">Javascript</code>
+<code class="code-aparte">MySQL</code>
+<code class="code-aparte">XAMPP</code>
 
 <p>
 
@@ -16,7 +19,7 @@ La dinámica consistió en la formación de cinco equipos. Cada uno presentó su
 
 </p>
 
-</div>
+
 
 <div class="row2">
 <div class="col4">Desde feb. 2019</div>
