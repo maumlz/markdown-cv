@@ -62,7 +62,7 @@ title: Mauricio Meléndez
     <div class="col2">
     </div>
     <div class="col3">
-      {% include_relative _includes/prueba.md %}
+      {% include_relative _includes/prueba.md | markdownify %}
     </div>
   </div>
 
