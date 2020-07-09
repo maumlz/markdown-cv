@@ -21,7 +21,7 @@ La dinámica consistió en la formación de cinco equipos. Cada uno presentó su
 
 </p>
 </div>
-
+</div>
 
 <div class="row2">
 <div class="col4">Desde feb. 2019</div>
