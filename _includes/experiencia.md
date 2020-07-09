@@ -1,6 +1,6 @@
 <div class="row2">
-  <div class="col4">Desde ago. 2018</div>
-  <div class="col5">
+<div class="col4">Desde ago. 2018</div>
+<div class="col5">
 **Sistema Hera**, *Base de datos, Programador*.
 
 <code class="code-aparte">PHP</code>
@@ -20,14 +20,15 @@ La dinámica consistió en la formación de cinco equipos. Cada uno presentó su
 </div>
 
 <div class="row2">
-  <div class="col4">Desde feb. 2019</div>
-  <div class="col5">
+<div class="col4">Desde feb. 2019</div>
+<div class="col5">
+
 **Othala**, *Cofundador, Programador*.
 Proyecto personal para el desarrollo de videojuegos.
 Contamos con dos proyectos finalizados.
 
-  - **Caro** <code class="code-aparte">C#</code> <code class="code-aparte">Unity Engine</code>: Desarrollado para el *2do Concurso de desarrollo de Video Juegos en la Semana de Matemáticas Aplicadas y Computación*. Enfocado a PC, cuenta con una historia corta a través de 5 niveles cada uno siendo un minijuego.
+- **Caro** <code class="code-aparte">C#</code> <code class="code-aparte">Unity Engine</code>: Desarrollado para el *2do Concurso de desarrollo de Video Juegos en la Semana de Matemáticas Aplicadas y Computación*. Enfocado a PC, cuenta con una historia corta a través de 5 niveles cada uno siendo un minijuego.
 
-  - **Save the Aliens** <code class="code-aparte">C#</code> <code class="code-aparte">Unity Engine</code>: Desarrollado en el *Taller Mermelada Lab* impartido en el [Centro de Cultura Digital](https://centroculturadigital.mx/) de la Ciudad de México. Enfocado a plataformas móviles.
+- **Save the Aliens** <code class="code-aparte">C#</code> <code class="code-aparte">Unity Engine</code>: Desarrollado en el *Taller Mermelada Lab* impartido en el [Centro de Cultura Digital](https://centroculturadigital.mx/) de la Ciudad de México. Enfocado a plataformas móviles.
 </div>
 </div>
