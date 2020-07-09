@@ -1,4 +1,6 @@
-
+---
+layout: default
+---
 
 **Sistema Hera**, *Base de datos, Programador*.
 
