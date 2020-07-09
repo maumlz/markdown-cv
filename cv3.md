@@ -62,7 +62,8 @@ title: Mauricio Meléndez
     <div class="col2">
     </div>
     <div class="col3">
-      {% include prueba.md | markdownify %}
+      {% capture p1 %}{% include prueba.md %}{% endcapture %}
+      {{ p1 | markdownify }}
     </div>
   </div>
 
