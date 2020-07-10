@@ -55,7 +55,7 @@ table {
 }
 
 
-/* For mobile phones: */
+/* For mobile phones:
 @media only screen and (max-width: 720px) {
   body{
     font: normal normal 400 100%/1.5em Avenir,Verdana,sans-serif;
@@ -167,9 +167,9 @@ table {
 
 
 }
-
-/*For Laptops, Desktops*/
-@media  screen and (min-width: 720px) {
+*/
+/*For Laptops, Desktops
+@media  screen and (min-width: 720px) {*/
   body{
     font: normal normal 400 100%/1.5em Avenir,Verdana,sans-serif;
     margin-left: 1.5cm;
@@ -303,4 +303,4 @@ table {
     margin: 2px;
     margin-right: 10px;
   }
-}
+/*}*/
