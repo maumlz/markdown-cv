@@ -41,21 +41,10 @@ title: Mauricio Meléndez
       <h2>Educación</h2>
     </div>
     <div class="col3">
-      <div class="row2">
-        <div class="col4">
-          <code class="fecha">{% for data in site.data.cv_data %} {{ data.date }} {% endfor %}</code>
-        </div>
-        <div class="col5">
-          {% for data in site.data.cv_data %}
-          {% if data.edu %}
-          {{"**" |append: data.edu | append :"**," | append: " *" |append: data.school | append :"*" |markdownify}}
-          {%endif%}
-          {% endfor %}
-        </div>
-      </div>
+      <code class="fecha">2016 - 2020</code>
+      <strong>Lic. Matemáticas Aplicadas y Computación</strong>, <em>Facultad de Estudios Superiores Acatlán</em>, UNAM.
     </div>
   </div>
-
   <div class="row">
     <div class="col1">
       <h2>Experiencia</h2>
@@ -89,13 +78,15 @@ title: Mauricio Meléndez
     <div class="col1">
       <h2>Idiomas</h2>
     </div>
-    <div class="col3">
-      <div class="row2">
-        <div class="col5">
-          {{" * Español - Lengua Nativa"|markdownify}}
-          {{" * Inglés - Avanzado/Intermedio"|markdownify}}
-          {{" * Alemán - Básico/Principiante"|markdownify}}
-        </div>
+    <div class="col3" id="lang">
+      <div>
+        <strong>Español</strong> - <em>Lengua Nativa</em>
+      </div>
+      <div>
+        <strong>Inglés</strong> - <em>Avanzado/Intermedio</em>
+      </div>
+      <div>
+        <strong>Alemán</strong> - <em>Básico/Principiante</em>
       </div>
     </div>
   </div>

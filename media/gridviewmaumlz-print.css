@@ -57,7 +57,7 @@ body{
   }
 
   .col1{
-    width: 20%;
+    width: 15%;
     position: relative;
     /*border: thin solid red;*/
   }
@@ -104,7 +104,7 @@ body{
   }
 
   h2{
-    font-size: 12pt;
+    font-size: 10pt;
     text-align: right;
   }
 
@@ -115,12 +115,11 @@ body{
   }
 
   .fecha {
-    font-size: 6pt;
+    font-size: 7pt;
     font-family: Monaco,Menlo,monospace,sans-serif;
-    color: #aaa;
+    color: grey;
     width: 100%;
-    display: flex;
-    text-align: right;
+    background-color: lightgrey;
   }
 
   .code-aparte{
@@ -130,7 +129,7 @@ body{
     white-space: nowrap;
     background-color: #9999ff;
     border-radius: 2px;
-    font-size: 6pt;
+    font-size: 7pt;
   }
 
   .fas.fa-circle{
@@ -151,17 +150,11 @@ body{
   }
 
 
-  .flex-container > div {
-    background-color: #f1f1f1;
-    width: 70px;
-    margin: 5px;
-    text-align: center;
-    line-height: 75px;
-    font-size: 8pt;
-  }
+
 
   .skill{
-    margin-right: 6pt;
+    margin: 2px;
+    margin-right: 10px;
   }
 
 p{
@@ -174,4 +167,10 @@ em{
 
 strong{
   font-weight: bold;
+}
+
+
+#lang{
+  display: flex;
+  justify-content: space-between;
 }
