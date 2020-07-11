@@ -1,0 +1,133 @@
+*{
+  font: inherit;
+}
+
+body{
+  font-family: Avenir,Verdana,sans-serif;
+
+  text-align: justify;
+}
+
+h1{
+  font-size: 26pt;
+}
+
+
+
+table,td,tr{
+  vertical-align: baseline;
+}
+
+#izq{
+  max-width: 25%;
+}
+#der{
+  max-width: 75%;
+}
+
+#presentacion h3{
+  font-style: italic;
+  font-weight: lighter;
+  color: inherit;
+}
+
+
+#contacto{
+  font-family: Monaco,Menlo,monospace,sans-serif;
+  font-size: 80%;
+  text-align: left;
+  border: solid;;
+}
+
+#contacto a{
+  text-decoration: none;
+}
+
+#contacto,h2,h3,a{
+  color: #7f7fff
+}
+
+#goal, #apt, #lan{
+  font-size: 11pt;
+}
+
+h3{
+  font-size: 12pt;
+}
+
+.sec{
+  text-align: right;
+  padding-right: 10px;
+  width: 15%;
+  font-size: 12pt;
+}
+
+.fecha{
+  font-size: 7pt;
+  text-align: right;
+  width: 15%;
+  font-family: Monaco,Menlo,monospace,sans-serif;
+  color: #aaa;
+}
+
+.cont{
+  text-align: justify;
+  font-size: 10.5pt;
+  padding-left: 5px;
+}
+
+.code-aparte{
+  position: static;
+  padding: 2px 4px;
+  color: #4c4c99;
+  white-space: nowrap;
+  background-color: #9999ff;
+  border-radius: 4px;
+  font-size: 10px;
+}
+
+
+.skills{
+  max-height: 300px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+.skills > div {
+  text-align: center;
+  margin: 5px;
+}
+
+.skill{
+  width: max-content;
+}
+
+
+
+strong{
+  font-weight: bold;
+}
+
+em{
+  font-style: italic;
+}
+
+
+.fas.fa-circle{
+  color: #9999ff;
+  font-size:10px;
+}
+
+.far.fa-circle{
+  font-size:10px;
+}
+
+
+
+@media print{
+  body {
+  }
+}
+td{
+}

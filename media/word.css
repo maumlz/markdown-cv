@@ -1,0 +1,382 @@
+
+/* Font Definitions */
+@font-face{
+  font-family:"Cambria Math";
+  panose-1:2 4 5 3 5 4 6 3 2 4;
+}
+@font-face{
+  font-family:"Gill Sans MT";
+  panose-1:2 11 5 2 2 1 4 2 2 3;
+}
+@font-face{
+  font-family:"Segoe UI";
+  panose-1:2 11 5 2 4 2 4 2 2 3;
+}
+@font-face{
+  font-family:Consolas;
+  panose-1:2 11 6 9 2 2 4 3 2 4;
+}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal{
+  margin-top:0cm;
+  margin-right:0cm;
+  margin-bottom:3.0pt;
+  margin-left:0cm;
+  text-align:center;
+  line-height:107%;
+  font-size:11.0pt;
+  font-family:"Gill Sans MT",sans-serif;
+}
+
+h1{
+  mso-style-link:"T�tulo 1 Car";
+  margin:0cm;
+  margin-bottom:.0001pt;
+  text-align:center;
+  line-height:normal;
+  page-break-after:avoid;
+  border:none;
+  padding:0cm;
+  font-size:22.0pt;
+  font-family:"Gill Sans MT",sans-serif;
+  text-transform:uppercase;
+  font-weight:normal;
+}
+h1.CxSpFirst{
+  mso-style-link:"T�tulo 1 Car";
+  margin:0cm;
+  margin-bottom:.0001pt;
+  text-align:center;
+  line-height:normal;
+  page-break-after:avoid;
+  border:none;
+  padding:0cm;
+  font-size:22.0pt;
+  font-family:"Gill Sans MT",sans-serif;
+  text-transform:uppercase;
+  font-weight:normal;
+}
+h1.CxSpMiddle{
+  mso-style-link:"T�tulo 1 Car";
+  margin:0cm;
+  margin-bottom:.0001pt;
+  text-align:center;
+  line-height:normal;
+  page-break-after:avoid;
+  border:none;
+  padding:0cm;
+  font-size:22.0pt;
+  font-family:"Gill Sans MT",sans-serif;
+  text-transform:uppercase;
+  font-weight:normal;
+}
+
+
+h1.CxSpLast{
+  mso-style-link:"T�tulo 1 Car";
+  margin:0cm;
+  margin-bottom:.0001pt;
+  text-align:center;
+  line-height:normal;
+  page-break-after:avoid;
+  border:none;
+  padding:0cm;
+  font-size:22.0pt;
+  font-family:"Gill Sans MT",sans-serif;
+  text-transform:uppercase;
+  font-weight:normal;
+}
+
+h2{
+  mso-style-link:"T�tulo 2 Car";
+  margin-top:0cm;
+  margin-right:0cm;
+  margin-bottom:18.0pt;
+  margin-left:0cm;
+  text-align:center;
+  line-height:normal;
+  page-break-after:avoid;
+  border:none;
+  padding:0cm;
+  font-size:13.0pt;
+  font-family:"Gill Sans MT",sans-serif;
+  text-transform:uppercase;
+  font-weight:normal;
+}
+
+
+h2.CxSpFirst{
+  mso-style-link:"T�tulo 2 Car";
+  margin:0cm;
+  margin-bottom:.0001pt;
+  text-align:center;
+  line-height:normal;
+  page-break-after:avoid;
+  border:none;
+  padding:0cm;
+  font-size:13.0pt;
+  font-family:"Gill Sans MT",sans-serif;
+  text-transform:uppercase;
+  font-weight:normal;
+}
+
+
+h2.CxSpMiddle{
+  mso-style-link:"T�tulo 2 Car";
+  margin:0cm;
+  margin-bottom:.0001pt;
+  text-align:center;
+  line-height:normal;
+  page-break-after:avoid;
+  border:none;
+  padding:0cm;
+  font-size:13.0pt;
+  font-family:"Gill Sans MT",sans-serif;
+  text-transform:uppercase;
+  font-weight:normal;
+}
+
+
+h2.CxSpLast{
+  mso-style-link:"T�tulo 2 Car";
+  margin-top:0cm;
+  margin-right:0cm;
+  margin-bottom:18.0pt;
+  margin-left:0cm;
+  text-align:center;
+  line-height:normal;
+  page-break-after:avoid;
+  border:none;
+  padding:0cm;
+  font-size:13.0pt;
+  font-family:"Gill Sans MT",sans-serif;
+  text-transform:uppercase;
+  font-weight:normal;
+}
+
+
+h3{
+  mso-style-link:"T�tulo 3 Car";
+  margin:0cm;
+  margin-bottom:.0001pt;
+  text-align:center;
+  line-height:107%;
+  page-break-after:avoid;
+  font-size:11.0pt;
+  font-family:"Gill Sans MT",sans-serif;
+  text-transform:uppercase;
+  font-weight:normal;
+}
+
+
+h3.CxSpFirst{
+  mso-style-link:"T�tulo 3 Car";
+  margin:0cm;
+  margin-bottom:.0001pt;
+  text-align:center;
+  line-height:107%;
+  page-break-after:avoid;
+  font-size:11.0pt;
+  font-family:"Gill Sans MT",sans-serif;
+  text-transform:uppercase;
+  font-weight:normal;
+}
+
+
+h3.CxSpMiddle{
+  mso-style-link:"T�tulo 3 Car";
+  margin:0cm;
+  margin-bottom:.0001pt;
+  text-align:center;
+  line-height:107%;
+  page-break-after:avoid;
+  font-size:11.0pt;
+  font-family:"Gill Sans MT",sans-serif;
+  text-transform:uppercase;
+  font-weight:normal;
+}
+
+h3.CxSpLast{
+  mso-style-link:"T�tulo 3 Car";
+  margin:0cm;
+  margin-bottom:.0001pt;
+  text-align:center;
+  line-height:107%;
+  page-break-after:avoid;
+  font-size:11.0pt;
+  font-family:"Gill Sans MT",sans-serif;
+  text-transform:uppercase;
+  font-weight:normal;
+}
+
+
+h4{
+  mso-style-link:"T�tulo 4 Car";
+  margin-top:18.0pt;
+  margin-right:0cm;
+  margin-bottom:0cm;
+  margin-left:0cm;
+  margin-bottom:.0001pt;
+  text-align:center;
+  line-height:107%;
+  page-break-after:avoid;
+  font-size:11.0pt;
+  font-family:"Gill Sans MT",sans-serif;
+  text-transform:uppercase;
+  font-weight:bold;
+}
+
+
+h4.CxSpFirst{
+  mso-style-link:"T�tulo 4 Car";
+  margin-top:18.0pt;
+  margin-right:0cm;
+  margin-bottom:0cm;
+  margin-left:0cm;
+  margin-bottom:.0001pt;
+  text-align:center;
+  line-height:107%;
+  page-break-after:avoid;
+  font-size:11.0pt;
+  font-family:"Gill Sans MT",sans-serif;
+  text-transform:uppercase;
+  font-weight:bold;
+}
+
+h4.CxSpMiddle{
+  mso-style-link:"T�tulo 4 Car";
+  margin:0cm;
+  margin-bottom:.0001pt;
+  text-align:center;
+  line-height:107%;
+  page-break-after:avoid;
+  font-size:11.0pt;
+  font-family:"Gill Sans MT",sans-serif;
+  text-transform:uppercase;
+  font-weight:bold;
+}
+
+h4.CxSpLast{
+  mso-style-link:"T�tulo 4 Car";
+  margin:0cm;
+  margin-bottom:.0001pt;
+  text-align:center;
+  line-height:107%;
+  page-break-after:avoid;
+  font-size:11.0pt;
+  font-family:"Gill Sans MT",sans-serif;
+  text-transform:uppercase;
+  font-weight:bold;
+}
+
+h5{
+  mso-style-link:"T�tulo 5 Car";
+  margin:0cm;
+  margin-bottom:.0001pt;
+  text-align:center;
+  line-height:107%;
+  page-break-after:avoid;
+  font-size:11.0pt;
+  font-family:"Gill Sans MT",sans-serif;
+  font-weight:normal;
+}
+
+p.MsoNoSpacing, li.MsoNoSpacing, div.MsoNoSpacing{
+  margin:0cm;
+  margin-bottom:.0001pt;
+  text-align:center;
+  line-height:normal;
+  font-size:11.0pt;
+  font-family:"Gill Sans MT",sans-serif;
+}
+
+span.Ttulo2Car{
+  mso-style-name:"T�tulo 2 Car";
+  mso-style-link:"T�tulo 2";
+  font-family:"Gill Sans MT",sans-serif;
+  text-transform:uppercase;
+}
+
+span.Ttulo1Car{
+  mso-style-name:"T�tulo 1 Car";
+  mso-style-link:"T�tulo 1";
+  font-family:"Gill Sans MT",sans-serif;
+  text-transform:uppercase;
+}
+
+span.Ttulo3Car{
+  mso-style-name:"T�tulo 3 Car";
+  mso-style-link:"T�tulo 3";
+  font-family:"Gill Sans MT",sans-serif;
+  text-transform:uppercase;
+}
+
+span.Ttulo4Car{
+  mso-style-name:"T�tulo 4 Car";
+  mso-style-link:"T�tulo 4";
+  font-family:"Gill Sans MT",sans-serif;
+  text-transform:uppercase;
+  font-weight:bold;
+}
+
+span.Ttulo5Car{
+  mso-style-name:"T�tulo 5 Car";
+  mso-style-link:"T�tulo 5";
+  font-family:"Gill Sans MT",sans-serif;
+}
+
+p.Lneadegrfico, li.Lneadegrfico, div.Lneadegrfico{
+  mso-style-name:"L�nea de gr�fico";
+  margin:0cm;
+  margin-bottom:.0001pt;
+  text-align:center;
+  line-height:normal;
+  font-size:11.0pt;
+  font-family:"Gill Sans MT",sans-serif;
+  position:relative;
+  top:-3.0pt;
+}
+
+p.Grfico, li.Grfico, div.Grfico{
+  mso-style-name:Gr�fico;
+  mso-style-link:"Car�cter de gr�fico";
+  margin-top:16.0pt;
+  margin-right:0cm;
+  margin-bottom:4.0pt;
+  margin-left:0cm;
+  text-align:center;
+  line-height:107%;
+  font-size:11.0pt;
+  font-family:"Gill Sans MT",sans-serif;
+}
+
+span.Carcterdegrfico{
+  mso-style-name:"Car�cter de gr�fico";
+  mso-style-link:Gr�fico;
+}
+
+.MsoChpDefault{
+  font-family:"Gill Sans MT",sans-serif;
+}
+
+.MsoPapDefault{
+  margin-bottom:3.0pt;
+  text-align:center;
+  line-height:107%;
+}
+
+/* Page Definitions */
+@page WordSection1{
+  size:595.3pt 841.9pt;
+  margin:103.7pt 57.6pt 115.2pt 57.6pt;
+}
+div.WordSection1{
+  page:WordSection1;
+}
+/* List Definitions */
+ol{
+  margin-bottom:0cm;
+}
+ul{
+  margin-bottom:0cm;
+}
