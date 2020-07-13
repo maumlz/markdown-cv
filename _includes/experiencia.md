@@ -1,12 +1,12 @@
 <div class="row2">
-<code class="fecha">Desde ago. 2018</code>
+
 <strong>Sistema Hera</strong>, <em>Base de datos, Programador</em>. <code class="code-aparte">PHP</code>
 <code class="code-aparte">HTML</code>
 <code class="code-aparte">CSS</code>
 <code class="code-aparte">Javascript</code>
 <code class="code-aparte">MySQL</code>
 <code class="code-aparte">XAMPP</code>
-
+<code class="fecha">Desde ago. 2018</code>
 <p>
 Proyecto de la cátedra de Ingeniería de software, en el que se desarrolló un sistema para la gestión de calificaciones de un bachillerato técnico.
 
@@ -17,12 +17,12 @@ La dinámica consistió en la formación de cinco equipos. Cada uno presentó su
 </div>
 
 <div class="row2">
-<code class="fecha">Desde feb. 2019</code>
 
 <strong>Othala</strong>, <em>Cofundador, Programador</em>.
 
-Proyecto personal para el desarrollo de videojuegos.
-Contamos con dos proyectos finalizados.
+Proyecto personal para el desarrollo de videojuegos. Contamos con dos proyectos finalizados.
+<code class="fecha">Desde feb. 2019</code>
+
 
 </div>
 <div class="row2">
