@@ -1,5 +1,5 @@
 <div class="row2">
-  <strong>Sistema Hera</strong>, <em>Base de datos, Programador</em>. <code class="code-aparte">PHP</code>
+  <strong>Sistema Hera</strong>, <em>Programador</em>. <code class="code-aparte">PHP</code>
   <code class="code-aparte">HTML</code>
   <code class="code-aparte">CSS</code>
   <code class="code-aparte">Javascript</code>
@@ -7,12 +7,9 @@
   <code class="code-aparte">XAMPP</code>
   <code class="fecha">Desde ago. 2018</code>
   <p>
-    Proyecto en el que se desarrolló un sistema para la gestión de calificaciones de un bachillerato técnico,
-    donde diseñé e implemente la base de datos además de programar el back-end del sitio. Todo esto como evaluación de la
-    asignatura Ingeniería de Software.
-    La dinámica consistió en la formación de cinco equipos donde cada uno presentó su propuesta al final del curso. Se estipuló
-    que el sistema que más se adecuara a los requerimientos tendría la oportunidad de implementarlo, resultando <strong>Hera</strong>
-    el ganador.
+    Desarrollo de un sistema para la gestión de calificaciones de un bachillerato técnico. Diseñe e implemente la base de datos
+    además de programar el back end del sistema. Este proyecto se desarrolló como parte de la asignatura Ingeniería de Software;
+    se presentaron 5 proyectoss a competir, siendo mi equipo quién cumplió  con los requerimientos estipulados para ser el ganador.
   </p>
 </div>
 <div class="row2">
