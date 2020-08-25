@@ -177,6 +177,7 @@ table {
     margin-top: 1cm;
     margin-bottom: 1cm;
     text-align: justify;
+    background-color: #f1f3f4;
   }
 
   .col1{
@@ -199,11 +200,18 @@ table {
     left: 40%;
   }
 
-  #nombre{
+  h1#nombre{
     text-align: left;
     font-size: 3em;
     line-height: 1em;
     position: relative;
+  }
+
+  h2#nombre{
+  color: black;
+  text-align: left;
+  font-size: 16pt;
+  font-style: italic;
   }
 
   p{
@@ -226,7 +234,7 @@ table {
   }
 
   #webaddress,h2,a{
-    color: #7f7fff
+    color: #107896
   }
 
   h2{
@@ -268,15 +276,15 @@ table {
     position: static;
     padding: 2px 4px;
     font-size: 90%;
-    color: #4c4c99;
+    color: white;
     white-space: nowrap;
-    background-color: #9999ff;
+    background-color: #107896;
     border-radius: 4px;
     font-size:12px;
   }
 
   .fas.fa-circle{
-    color: #9999ff;
+    color: #107896;
     font-size:12px;
   }
 

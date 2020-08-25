@@ -78,10 +78,17 @@ body{
     left: 40%;
   }
 
-  #nombre{
+  h1#nombre{
     text-align: left;
-    font-size: 20pt;
+    font-size: 32pt;
     position: relative;
+    margin-bottom: 10px
+  }
+  h2#nombre{
+  color: black;
+  text-align: left;
+  font-size: 16pt;
+  font-style: italic;
   }
 
   h1+p{
@@ -100,7 +107,7 @@ body{
   }
 
   #webaddress,h2,a{
-    color: #7f7fff
+    color: #107896
   }
 
   h2{
@@ -125,15 +132,15 @@ body{
   .code-aparte{
     padding: 1px 2px;
     font-size: 80%;
-    color: #4c4c99;
+    color: white;
     white-space: nowrap;
-    background-color: #9999ff;
+    background-color: #107896;
     border-radius: 2px;
     font-size: 7pt;
   }
 
   .fas.fa-circle{
-    color: #9999ff;
+    color: #107896;
     font-size:6pt;
   }
 

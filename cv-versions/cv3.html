@@ -9,7 +9,7 @@ title: Mauricio Meléndez
     </div>
     <div class="col3">
       <h1 id="nombre">{% for data in site.data.cv_data %} {{data.name}} {% endfor %}</h1>
-      <p>{% for data in site.data.cv_data %} {{data.description}} {% endfor %}</p>
+      <h2 id="nombre">{% for data in site.data.cv_data %} {{data.description}} {% endfor %}</h2>
       <div id="webaddress">
         {% for item in site.data.contact %}
         <a href="{{ item.link }}" class ="contacto" > <i class="{{ item.class }}"></i> {{ item.name }} |</a>
