@@ -135,11 +135,12 @@
 
  .content3{
     padding: 15px;
+    line-height: 2em;
  }
 
  .subtitle{
-    padding: 15px;
-    padding-bottom: 7.5px;
+    padding: 10px;
+    padding-bottom: 5px;
     
     font-weight: 600;
 
@@ -167,7 +168,7 @@
  }
 
  .skill{
-   padding: 15px;
+   padding: 1vh 1vw;
  }
 
  .skill span{
@@ -178,12 +179,12 @@
  .progress-bar{
     background-color: rgba(0,0,0,.5);
     border-radius: 10px;
-    height: 15px;
+    height: 2vh;
  }
 
  .progress{
     border-radius: 10px;
-    height: 15px;
+    height: 2vh;
     background-color: rgb(16, 120, 150);
  }
  
@@ -237,8 +238,6 @@
  
   #header{
      margin-bottom: 0.4cm;
-     /* background-color: red; */
-     /* background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(241,243,244,1)) !important;  */
    }
  
   #profile img, #down{
@@ -336,10 +335,12 @@
  
   .date{
      text-align: center;
-     font-size: 8pt;
+     font-size: 7pt;
      font-weight: lighter;
      font-style: italic;
      margin-top: 0.5cm;
+     padding-left: 20%;
+     padding-right: 20%;
   }
 
   .skill-container{
